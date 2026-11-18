@@ -30,6 +30,16 @@
         "v1 test run: new post (NIBtera Bus Ticket), headline 'ትኬት በስልክ፣ ጉዞ በቀላሉ!' chosen by Claude; asked Melat to confirm wording",
         "Melat replied 'Approved' (Nov 18, update 21051526) -> approved at v1"
       ]
+    },
+    "nibtera-loan": {
+      "status": "awaiting_review",
+      "version": 1,
+      "headline": "ብድር ባሉበት ሆነው፣ በንብተራ!",
+      "source": "source/nibtera-loan.html",
+      "image": "posts/nibtera-loan.png",
+      "feedback_log": [
+        "v1: NIBtera Loan post (male model, real NIBtera Loan app screen showing Salary Advance); headline chosen by Claude, asked Melat to check wording; caption draft sent as separate message"
+      ]
     }
   }
 }
