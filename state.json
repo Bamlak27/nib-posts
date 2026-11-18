@@ -5,7 +5,7 @@
     "chat_id": 391473037
   },
   "bot": "@IDMNIBbot",
-  "last_update_id": 21051529,
+  "last_update_id": 21051530,
   "posts": {
     "nibtera-online": {
       "status": "approved",
@@ -55,7 +55,8 @@
         "Melat replied 'Approved' right after v2 was sent (treated as approval of Cardless v2; posting day/time not yet given).",
         "v3: rebuilt from a freshly generated photo (headroom, no ATM/signage, natural hands) per Bamlak's quality feedback on v1/v2; real Cardless screen warped to the tilted phone; headline moved to free sky area left; product logo over foliage. Sent to Melat without waiting for Bamlak. Melat had said 'Approved' to v2.",
         "Nov 18 (update 21051528): Melat sent NIB headquarters photo (Image 103.png): use it whenever a building appears in a background. Design unchanged; asked Melat whether to add HQ behind model on Cardless or keep as is. Standing rule: only NIB HQ for background buildings.",
-        "Nov 18 (update 21051529): Melat clarified the issue is the far-back blurred skyline in the Cardless background; asked for a fix. Tried removing it by editing: left a visible smudge, so NOT applied. Asked Melat (msg 32) to confirm regenerating the background (NIB HQ vs plain trees/sky). Design unchanged (v3). Needs a regenerated photo (Bamlak)."
+        "Nov 18 (update 21051529): Melat clarified the issue is the far-back blurred skyline in the Cardless background; asked for a fix. Tried removing it by editing: left a visible smudge, so NOT applied. Asked Melat (msg 32) to confirm regenerating the background (NIB HQ vs plain trees/sky). Design unchanged (v3). Needs a regenerated photo (Bamlak).",
+        "Nov 18 (update 21051530): Melat confirmed: regenerate background with NIB HQ behind her. No image-generation tool in this loop, so v4 NOT produced; told Melat it's with Bamlak. TODO (Bamlak): regenerate photo_cardless.png with NIB HQ (project file 'NIB HQ.png') as background, keep same model/phone screen rules, then re-render and send v4."
       ]
     }
   }
