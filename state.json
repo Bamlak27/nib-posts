@@ -32,13 +32,14 @@
       ]
     },
     "nibtera-loan": {
-      "status": "awaiting_review",
+      "status": "dropped",
       "version": 1,
       "headline": "ብድር ባሉበት ሆነው፣ በንብተራ!",
       "source": "source/nibtera-loan.html",
       "image": "posts/nibtera-loan.png",
       "feedback_log": [
-        "v1: NIBtera Loan post (male model, real NIBtera Loan app screen showing Salary Advance); headline chosen by Claude, asked Melat to check wording; caption draft sent as separate message"
+        "v1: NIBtera Loan post (male model, real NIBtera Loan app screen showing Salary Advance); headline chosen by Claude, asked Melat to check wording; caption draft sent as separate message",
+        "Dropped by Bamlak (Nov 18): not in the weekly services plan; kept only as a spare. Melat told to ignore it."
       ]
     },
     "nibtera-cardless": {
