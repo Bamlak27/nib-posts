@@ -43,13 +43,14 @@
     },
     "nibtera-cardless": {
       "status": "awaiting_review",
-      "version": 1,
+      "version": 2,
       "headline": "ካርድ ሳይዙ፣ ገንዘብዎን በስልክ ያውጡ!",
       "source": "source/nibtera-cardless.html",
       "image": "posts/nibtera-cardless.png",
       "service_source": "Miro 'This week contents' sticky (Phase 4, Month 9, week 4): NIBtera Cardless",
       "feedback_log": [
-        "v1: NIBtera Cardless post (female model, real Cardless screen, NIBtera Online logo); headline chosen by Claude"
+        "v1: NIBtera Cardless post (female model, real Cardless screen, NIBtera Online logo); headline chosen by Claude",
+        "v2 (Bamlak's edits before Melat replied): headline moved down away from NIB logo; product logo no longer overlaps model's head (photo shifted down, logo smaller); background ATM removed (not NIB's). Standing rules: keep headline well clear of the NIB logo; product logo must never cover the model; no non-NIB ATMs/brands in backgrounds."
       ]
     }
   }
