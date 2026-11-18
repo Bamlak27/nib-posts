@@ -40,6 +40,17 @@
       "feedback_log": [
         "v1: NIBtera Loan post (male model, real NIBtera Loan app screen showing Salary Advance); headline chosen by Claude, asked Melat to check wording; caption draft sent as separate message"
       ]
+    },
+    "nibtera-cardless": {
+      "status": "awaiting_review",
+      "version": 1,
+      "headline": "ካርድ ሳይዙ፣ ገንዘብዎን በስልክ ያውጡ!",
+      "source": "source/nibtera-cardless.html",
+      "image": "posts/nibtera-cardless.png",
+      "service_source": "Miro 'This week contents' sticky (Phase 4, Month 9, week 4): NIBtera Cardless",
+      "feedback_log": [
+        "v1: NIBtera Cardless post (female model, real Cardless screen, NIBtera Online logo); headline chosen by Claude"
+      ]
     }
   }
 }
