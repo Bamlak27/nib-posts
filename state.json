@@ -5,10 +5,10 @@
     "chat_id": 391473037
   },
   "bot": "@IDMNIBbot",
-  "last_update_id": 21051524,
+  "last_update_id": 21051525,
   "posts": {
     "nibtera-online": {
-      "status": "awaiting_review",
+      "status": "approved",
       "version": 10,
       "source": "source/nibtera-online.html",
       "image": "posts/nibtera-online.png",
@@ -16,7 +16,8 @@
         "v7: change headline to ንብተራ ኦንላይን!",
         "v8: change headline back to the first revision (ባንክዎ በእጅዎ!)",
         "v9: asked to change headline to ኣሰደፈገ ኣሰደፈገ ኣሰደፈ! (not recognisable Amharic) - asked reviewer to confirm, design unchanged",
-        "v9: reviewer confirmed headline ኣሰደፈገ ኣሰደፈገ ኣሰደፈ! is intentional; applied on 3 lines at 86px (v10)"
+        "v9: reviewer confirmed headline ኣሰደፈገ ኣሰደፈገ ኣሰደፈ! is intentional; applied on 3 lines at 86px (v10)",
+        "v10: reviewer replied 'Approved' - final"
       ]
     }
   }
