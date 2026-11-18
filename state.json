@@ -5,7 +5,7 @@
     "chat_id": 391473037
   },
   "bot": "@IDMNIBbot",
-  "last_update_id": 21051525,
+  "last_update_id": 21051526,
   "posts": {
     "nibtera-online": {
       "status": "approved",
@@ -21,13 +21,14 @@
       ]
     },
     "nibtera-bus-ticket": {
-      "status": "awaiting_review",
+      "status": "approved",
       "version": 1,
       "headline": "ትኬት በስልክ፣ ጉዞ በቀላሉ!",
       "source": "source/nibtera-bus-ticket.html",
       "image": "posts/nibtera-bus-ticket.png",
       "feedback_log": [
-        "v1 test run: new post (NIBtera Bus Ticket), headline 'ትኬት በስልክ፣ ጉዞ በቀላሉ!' chosen by Claude; asked Melat to confirm wording"
+        "v1 test run: new post (NIBtera Bus Ticket), headline 'ትኬት በስልክ፣ ጉዞ በቀላሉ!' chosen by Claude; asked Melat to confirm wording",
+        "Melat replied 'Approved' (Nov 18, update 21051526) -> approved at v1"
       ]
     }
   }
