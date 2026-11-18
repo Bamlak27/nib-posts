@@ -1,63 +1,65 @@
 {
-  "reviewer": {
-    "name": "Melat",
-    "username": "Mel_Melat",
-    "chat_id": 391473037
+ "reviewer": {
+  "name": "Injera Digital Marketing",
+  "username": "InjeraDm",
+  "chat_id": 6864763984,
+  "previous": "Melat @Mel_Melat 391473037"
+ },
+ "bot": "@IDMNIBbot",
+ "last_update_id": 21051531,
+ "posts": {
+  "nibtera-online": {
+   "status": "approved",
+   "version": 10,
+   "source": "source/nibtera-online.html",
+   "image": "posts/nibtera-online.png",
+   "feedback_log": [
+    "v7: change headline to ንብተራ ኦንላይን!",
+    "v8: change headline back to the first revision (ባንክዎ በእጅዎ!)",
+    "v9: asked to change headline to ኣሰደፈገ ኣሰደፈገ ኣሰደፈ! (not recognisable Amharic) - asked reviewer to confirm, design unchanged",
+    "v9: reviewer confirmed headline ኣሰደፈገ ኣሰደፈገ ኣሰደፈ! is intentional; applied on 3 lines at 86px (v10)",
+    "v10: reviewer replied 'Approved' - final"
+   ]
   },
-  "bot": "@IDMNIBbot",
-  "last_update_id": 21051530,
-  "posts": {
-    "nibtera-online": {
-      "status": "approved",
-      "version": 10,
-      "source": "source/nibtera-online.html",
-      "image": "posts/nibtera-online.png",
-      "feedback_log": [
-        "v7: change headline to ንብተራ ኦንላይን!",
-        "v8: change headline back to the first revision (ባንክዎ በእጅዎ!)",
-        "v9: asked to change headline to ኣሰደፈገ ኣሰደፈገ ኣሰደፈ! (not recognisable Amharic) - asked reviewer to confirm, design unchanged",
-        "v9: reviewer confirmed headline ኣሰደፈገ ኣሰደፈገ ኣሰደፈ! is intentional; applied on 3 lines at 86px (v10)",
-        "v10: reviewer replied 'Approved' - final"
-      ]
-    },
-    "nibtera-bus-ticket": {
-      "status": "approved",
-      "version": 1,
-      "headline": "ትኬት በስልክ፣ ጉዞ በቀላሉ!",
-      "source": "source/nibtera-bus-ticket.html",
-      "image": "posts/nibtera-bus-ticket.png",
-      "feedback_log": [
-        "v1 test run: new post (NIBtera Bus Ticket), headline 'ትኬት በስልክ፣ ጉዞ በቀላሉ!' chosen by Claude; asked Melat to confirm wording",
-        "Melat replied 'Approved' (Nov 18, update 21051526) -> approved at v1"
-      ]
-    },
-    "nibtera-loan": {
-      "status": "dropped",
-      "version": 1,
-      "headline": "ብድር ባሉበት ሆነው፣ በንብተራ!",
-      "source": "source/nibtera-loan.html",
-      "image": "posts/nibtera-loan.png",
-      "feedback_log": [
-        "v1: NIBtera Loan post (male model, real NIBtera Loan app screen showing Salary Advance); headline chosen by Claude, asked Melat to check wording; caption draft sent as separate message",
-        "Dropped by Bamlak (Nov 18): not in the weekly services plan; kept only as a spare. Melat told to ignore it."
-      ]
-    },
-    "nibtera-cardless": {
-      "status": "awaiting_review",
-      "version": 3,
-      "headline": "ካርድ ሳይዙ፣ ገንዘብዎን በስልክ ያውጡ!",
-      "source": "source/nibtera-cardless.html",
-      "image": "posts/nibtera-cardless.png",
-      "service_source": "Miro 'This week contents' sticky (Phase 4, Month 9, week 4): NIBtera Cardless",
-      "feedback_log": [
-        "v1: NIBtera Cardless post (female model, real Cardless screen, NIBtera Online logo); headline chosen by Claude",
-        "v2 (Bamlak's edits before Melat replied): headline moved down away from NIB logo; product logo no longer overlaps model's head (photo shifted down, logo smaller); background ATM removed (not NIB's). Standing rules: keep headline well clear of the NIB logo; product logo must never cover the model; no non-NIB ATMs/brands in backgrounds.",
-        "Melat replied 'Approved' right after v2 was sent (treated as approval of Cardless v2; posting day/time not yet given).",
-        "v3: rebuilt from a freshly generated photo (headroom, no ATM/signage, natural hands) per Bamlak's quality feedback on v1/v2; real Cardless screen warped to the tilted phone; headline moved to free sky area left; product logo over foliage. Sent to Melat without waiting for Bamlak. Melat had said 'Approved' to v2.",
-        "Nov 18 (update 21051528): Melat sent NIB headquarters photo (Image 103.png): use it whenever a building appears in a background. Design unchanged; asked Melat whether to add HQ behind model on Cardless or keep as is. Standing rule: only NIB HQ for background buildings.",
-        "Nov 18 (update 21051529): Melat clarified the issue is the far-back blurred skyline in the Cardless background; asked for a fix. Tried removing it by editing: left a visible smudge, so NOT applied. Asked Melat (msg 32) to confirm regenerating the background (NIB HQ vs plain trees/sky). Design unchanged (v3). Needs a regenerated photo (Bamlak).",
-        "Nov 18 (update 21051530): Melat confirmed: regenerate background with NIB HQ behind her. No image-generation tool in this loop, so v4 NOT produced; told Melat it's with Bamlak. TODO (Bamlak): regenerate photo_cardless.png with NIB HQ (project file 'NIB HQ.png') as background, keep same model/phone screen rules, then re-render and send v4."
-      ]
-    }
+  "nibtera-bus-ticket": {
+   "status": "approved",
+   "version": 1,
+   "headline": "ትኬት በስልክ፣ ጉዞ በቀላሉ!",
+   "source": "source/nibtera-bus-ticket.html",
+   "image": "posts/nibtera-bus-ticket.png",
+   "feedback_log": [
+    "v1 test run: new post (NIBtera Bus Ticket), headline 'ትኬት በስልክ፣ ጉዞ በቀላሉ!' chosen by Claude; asked Melat to confirm wording",
+    "Melat replied 'Approved' (Nov 18, update 21051526) -> approved at v1"
+   ]
+  },
+  "nibtera-loan": {
+   "status": "dropped",
+   "version": 1,
+   "headline": "ብድር ባሉበት ሆነው፣ በንብተራ!",
+   "source": "source/nibtera-loan.html",
+   "image": "posts/nibtera-loan.png",
+   "feedback_log": [
+    "v1: NIBtera Loan post (male model, real NIBtera Loan app screen showing Salary Advance); headline chosen by Claude, asked Melat to check wording; caption draft sent as separate message",
+    "Dropped by Bamlak (Nov 18): not in the weekly services plan; kept only as a spare. Melat told to ignore it."
+   ]
+  },
+  "nibtera-cardless": {
+   "status": "awaiting_review",
+   "version": 3,
+   "headline": "ካርድ ሳይዙ፣ ገንዘብዎን በስልክ ያውጡ!",
+   "source": "source/nibtera-cardless.html",
+   "image": "posts/nibtera-cardless.png",
+   "service_source": "Miro 'This week contents' sticky (Phase 4, Month 9, week 4): NIBtera Cardless",
+   "feedback_log": [
+    "v1: NIBtera Cardless post (female model, real Cardless screen, NIBtera Online logo); headline chosen by Claude",
+    "v2 (Bamlak's edits before Melat replied): headline moved down away from NIB logo; product logo no longer overlaps model's head (photo shifted down, logo smaller); background ATM removed (not NIB's). Standing rules: keep headline well clear of the NIB logo; product logo must never cover the model; no non-NIB ATMs/brands in backgrounds.",
+    "Melat replied 'Approved' right after v2 was sent (treated as approval of Cardless v2; posting day/time not yet given).",
+    "v3: rebuilt from a freshly generated photo (headroom, no ATM/signage, natural hands) per Bamlak's quality feedback on v1/v2; real Cardless screen warped to the tilted phone; headline moved to free sky area left; product logo over foliage. Sent to Melat without waiting for Bamlak. Melat had said 'Approved' to v2.",
+    "Nov 18 (update 21051528): Melat sent NIB headquarters photo (Image 103.png): use it whenever a building appears in a background. Design unchanged; asked Melat whether to add HQ behind model on Cardless or keep as is. Standing rule: only NIB HQ for background buildings.",
+    "Nov 18 (update 21051529): Melat clarified the issue is the far-back blurred skyline in the Cardless background; asked for a fix. Tried removing it by editing: left a visible smudge, so NOT applied. Asked Melat (msg 32) to confirm regenerating the background (NIB HQ vs plain trees/sky). Design unchanged (v3). Needs a regenerated photo (Bamlak).",
+    "Nov 18 (update 21051530): Melat confirmed: regenerate background with NIB HQ behind her. No image-generation tool in this loop, so v4 NOT produced; told Melat it's with Bamlak. TODO (Bamlak): regenerate photo_cardless.png with NIB HQ (project file 'NIB HQ.png') as background, keep same model/phone screen rules, then re-render and send v4.",
+    "Nov 18: creative director changed to @InjeraDm (chat 6864763984). Scheduled checks switched off to save usage; feedback is now checked only when Bamlak asks."
+   ]
   }
+ }
 }
