@@ -1,14 +1,21 @@
 {
-  "reviewer": {"name": "Melat", "username": "Mel_Melat", "chat_id": 391473037},
+  "reviewer": {
+    "name": "Melat",
+    "username": "Mel_Melat",
+    "chat_id": 391473037
+  },
   "bot": "@IDMNIBbot",
-  "last_update_id": 21051521,
+  "last_update_id": 21051522,
   "posts": {
     "nibtera-online": {
       "status": "awaiting_review",
-      "version": 8,
+      "version": 9,
       "source": "source/nibtera-online.html",
       "image": "posts/nibtera-online.png",
-      "feedback_log": ["v7: change headline to ንብተራ ኦንላይን!"]
+      "feedback_log": [
+        "v7: change headline to ንብተራ ኦንላይን!",
+        "v8: change headline back to the first revision (ባንክዎ በእጅዎ!)"
+      ]
     }
   }
 }
