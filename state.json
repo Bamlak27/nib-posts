@@ -45,7 +45,7 @@
   },
   "nibtera-cardless": {
    "status": "awaiting_review",
-   "version": 3,
+   "version": 4,
    "headline": "ካርድ ሳይዙ፣ ገንዘብዎን በስልክ ያውጡ!",
    "source": "source/nibtera-cardless.html",
    "image": "posts/nibtera-cardless.png",
@@ -58,7 +58,8 @@
     "Nov 18 (update 21051528): Melat sent NIB headquarters photo (Image 103.png): use it whenever a building appears in a background. Design unchanged; asked Melat whether to add HQ behind model on Cardless or keep as is. Standing rule: only NIB HQ for background buildings.",
     "Nov 18 (update 21051529): Melat clarified the issue is the far-back blurred skyline in the Cardless background; asked for a fix. Tried removing it by editing: left a visible smudge, so NOT applied. Asked Melat (msg 32) to confirm regenerating the background (NIB HQ vs plain trees/sky). Design unchanged (v3). Needs a regenerated photo (Bamlak).",
     "Nov 18 (update 21051530): Melat confirmed: regenerate background with NIB HQ behind her. No image-generation tool in this loop, so v4 NOT produced; told Melat it's with Bamlak. TODO (Bamlak): regenerate photo_cardless.png with NIB HQ (project file 'NIB HQ.png') as background, keep same model/phone screen rules, then re-render and send v4.",
-    "Nov 18: creative director changed to @InjeraDm (chat 6864763984). Scheduled checks switched off to save usage; feedback is now checked only when Bamlak asks."
+    "Nov 18: creative director changed to @InjeraDm (chat 6864763984). Scheduled checks switched off to save usage; feedback is now checked only when Bamlak asks.",
+    "v4: photo regenerated with NIB HQ in the background (replacing the skyline), same model and pose; real Cardless screen re-warped to the new phone; headline moved to the free road area bottom-left (HQ now fills the top-left). Sent to @InjeraDm."
    ]
   }
  }
