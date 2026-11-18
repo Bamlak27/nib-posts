@@ -19,6 +19,16 @@
         "v9: reviewer confirmed headline ኣሰደፈገ ኣሰደፈገ ኣሰደፈ! is intentional; applied on 3 lines at 86px (v10)",
         "v10: reviewer replied 'Approved' - final"
       ]
+    },
+    "nibtera-bus-ticket": {
+      "status": "awaiting_review",
+      "version": 1,
+      "headline": "ትኬት በስልክ፣ ጉዞ በቀላሉ!",
+      "source": "source/nibtera-bus-ticket.html",
+      "image": "posts/nibtera-bus-ticket.png",
+      "feedback_log": [
+        "v1 test run: new post (NIBtera Bus Ticket), headline 'ትኬት በስልክ፣ ጉዞ በቀላሉ!' chosen by Claude; asked Melat to confirm wording"
+      ]
     }
   }
 }
