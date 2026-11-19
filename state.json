@@ -61,6 +61,17 @@
     "Nov 18: creative director changed to @InjeraDm (chat 6864763984). Scheduled checks switched off to save usage; feedback is now checked only when Bamlak asks.",
     "v4: photo regenerated with NIB HQ in the background (replacing the skyline), same model and pose; real Cardless screen re-warped to the new phone; headline moved to the free road area bottom-left (HQ now fills the top-left). Sent to @InjeraDm."
    ]
+  },
+  "nibtera-tap": {
+   "status": "awaiting_review",
+   "version": 1,
+   "headline": "ስልክዎን ያሳዩ፣ ይክፈሉ!",
+   "source": "source/nibtera-tap.html",
+   "image": "posts/nibtera-tap.png",
+   "service_source": "Miro 'This week contents' sticky (Phase 4, Month 9, week 4): 14. NIB Tap",
+   "feedback_log": [
+    "v1: NIB Tap post. Pinterest board NIB INSPOS (floating-items-on-ribbon POS pin, hand-with-phone-in-scene pin) inspired a golden ribbon carrying everyday things (coffee, bag, ticket, bread) out of the phone; man in brown blazer showing real NIBTap QR screen; headline top-left in free space; product logo kept clear of head. Headline wording 'ስልክዎን ያሳዩ፣ ይክፈሉ!' flagged to Bamlak as day-to-day wording to confirm. Sent to @InjeraDm; no scheduled checks (feedback processed on request)."
+   ]
   }
  }
 }
