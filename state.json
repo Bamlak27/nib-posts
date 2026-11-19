@@ -64,7 +64,7 @@
   },
   "nibtera-tap": {
    "status": "awaiting_review",
-   "version": 5,
+   "version": 6,
    "headline": "ስካን ያድርጉ፣ ብር ይላኩ!",
    "source": "source/nibtera-tap.html",
    "image": "posts/nibtera-tap.png",
@@ -76,7 +76,9 @@
     "Reviewer on v3: (1) other phone must be shown scanning the one with the interface; (2) NIBtera Online logo must never move from top-right; (3) NIB International Bank logo gets a white oval background of its own when not legible (branding priority).",
     "v4: scanner hand now enters from the right edge, phone camera aimed at the QR (overlapping the screen's top-right corner) + white scan brackets and scan line over the QR; NIBtera Online pill back top-right; NIB logo on white oval; headline unchanged.",
     "Bamlak on v4: scanning looked unrealistic; scanner phone's camera must face the QR phone BUT both screens must be visible, with realistic proportion/perspective.",
-    "v5: high-angle (about 60 deg) photo, two upright phones side by side; left = real NIBTap QR screen, right = scanner viewfinder (my mock: dimmed camera feed of the QR with white brackets and scan line; no real NIB scanner screen exists in Project). Headline switched to yellow for contrast. Composite script: source/comp_two_phones.py."
+    "v5: high-angle (about 60 deg) photo, two upright phones side by side; left = real NIBTap QR screen, right = scanner viewfinder (my mock: dimmed camera feed of the QR with white brackets and scan line; no real NIB scanner screen exists in Project). Headline switched to yellow for contrast. Composite script: source/comp_two_phones.py.",
+    "Bamlak on v5: scanner phone's back camera was not facing the QR phone (looked side by side); needs the scanner person's point of view; the two hands must not look alike, use the woman's hand from the Project files for the QR phone's owner.",
+    "v6: true first-person scanner POV (man's hand with watch holds scanner phone in foreground, tilted toward the woman's phone further away; woman's hand built from Project refs 'Pretty woman hand' + 'Inside' with clover bracelet). Real NIBTap QR on her phone; scanner viewfinder (my mock) on his. Script source/comp_pov_scan.py."
    ]
   }
  },
@@ -84,6 +86,7 @@
   "NIBtera Online pill ALWAYS top-right (right:75 top:28). Never move it; keep photo subjects (hands, heads) out of that corner instead.",
   "NIB International Bank logo gets its own white oval background (left:62 top:28) whenever it is not clearly legible on the photo (branding priority). Used on Tap v4.",
   "Scanning/action scenes must clearly show the action (e.g. scanner phone camera aimed at the QR).",
-  "When both phones must show screens, use a high-angle photo (green chroma screen on the scanner phone, white on the QR phone) and composite real UI on both."
+  "When both phones must show screens, use a high-angle photo (green chroma screen on the scanner phone, white on the QR phone) and composite real UI on both.",
+  "Phone owners are different people: give them visibly different hands (use Project files 'Pretty woman hand(s).png' as reference for the woman's hand). For scan scenes use the scanner's first-person POV, scanner phone in foreground aimed at the other phone."
  ]
 }
