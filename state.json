@@ -64,7 +64,7 @@
   },
   "nibtera-tap": {
    "status": "awaiting_review",
-   "version": 3,
+   "version": 4,
    "headline": "ስካን ያድርጉ፣ ብር ይላኩ!",
    "source": "source/nibtera-tap.html",
    "image": "posts/nibtera-tap.png",
@@ -72,8 +72,15 @@
    "feedback_log": [
     "v1: NIB Tap post. Pinterest board NIB INSPOS (floating-items-on-ribbon POS pin, hand-with-phone-in-scene pin) inspired a golden ribbon carrying everyday things (coffee, bag, ticket, bread) out of the phone; man in brown blazer showing real NIBTap QR screen; headline top-left in free space; product logo kept clear of head. Headline wording 'ስልክዎን ያሳዩ፣ ይክፈሉ!' flagged to Bamlak as day-to-day wording to confirm. Sent to @InjeraDm; no scheduled checks (feedback processed on request).",
     "v2 (Bamlak): rebuilt from ONE Pinterest pin only (Bureau de Change POS pin: receipt-style ribbon in an S-curve carrying everyday items out of the device), no model. Cream ribbon rises from the real NIBTap QR phone carrying coffee, bag, ticket, bread; headline top-left in free space. Replaces v1; sent to @InjeraDm.",
-    "v3: redone after Bamlak's correction (NIB Tap = send money to a person by scanning their NIBTap QR). ONE pin recreated (Prime Basket POV: hand + phone bottom, second hand from top right); real NIBTap QR screen warped onto phone; headline 'ስካን ያድርጉ፣ ብር ይላኩ!' chosen by Claude, wording to be confirmed by Bamlak."
+    "v3: redone after Bamlak's correction (NIB Tap = send money to a person by scanning their NIBTap QR). ONE pin recreated (Prime Basket POV: hand + phone bottom, second hand from top right); real NIBTap QR screen warped onto phone; headline 'ስካን ያድርጉ፣ ብር ይላኩ!' chosen by Claude, wording to be confirmed by Bamlak.",
+    "Reviewer on v3: (1) other phone must be shown scanning the one with the interface; (2) NIBtera Online logo must never move from top-right; (3) NIB International Bank logo gets a white oval background of its own when not legible (branding priority).",
+    "v4: scanner hand now enters from the right edge, phone camera aimed at the QR (overlapping the screen's top-right corner) + white scan brackets and scan line over the QR; NIBtera Online pill back top-right; NIB logo on white oval; headline unchanged."
    ]
   }
- }
+ },
+ "standing_rules": [
+  "NIBtera Online pill ALWAYS top-right (right:75 top:28). Never move it; keep photo subjects (hands, heads) out of that corner instead.",
+  "NIB International Bank logo gets its own white oval background (left:62 top:28) whenever it is not clearly legible on the photo (branding priority). Used on Tap v4.",
+  "Scanning/action scenes must clearly show the action (e.g. scanner phone camera aimed at the QR)."
+ ]
 }
