@@ -64,14 +64,15 @@
   },
   "nibtera-tap": {
    "status": "awaiting_review",
-   "version": 2,
-   "headline": "ስልክዎን ያሳዩ፣ ይክፈሉ!",
+   "version": 3,
+   "headline": "ስካን ያድርጉ፣ ብር ይላኩ!",
    "source": "source/nibtera-tap.html",
    "image": "posts/nibtera-tap.png",
    "service_source": "Miro 'This week contents' sticky (Phase 4, Month 9, week 4): 14. NIB Tap",
    "feedback_log": [
     "v1: NIB Tap post. Pinterest board NIB INSPOS (floating-items-on-ribbon POS pin, hand-with-phone-in-scene pin) inspired a golden ribbon carrying everyday things (coffee, bag, ticket, bread) out of the phone; man in brown blazer showing real NIBTap QR screen; headline top-left in free space; product logo kept clear of head. Headline wording 'ስልክዎን ያሳዩ፣ ይክፈሉ!' flagged to Bamlak as day-to-day wording to confirm. Sent to @InjeraDm; no scheduled checks (feedback processed on request).",
-    "v2 (Bamlak): rebuilt from ONE Pinterest pin only (Bureau de Change POS pin: receipt-style ribbon in an S-curve carrying everyday items out of the device), no model. Cream ribbon rises from the real NIBTap QR phone carrying coffee, bag, ticket, bread; headline top-left in free space. Replaces v1; sent to @InjeraDm."
+    "v2 (Bamlak): rebuilt from ONE Pinterest pin only (Bureau de Change POS pin: receipt-style ribbon in an S-curve carrying everyday items out of the device), no model. Cream ribbon rises from the real NIBTap QR phone carrying coffee, bag, ticket, bread; headline top-left in free space. Replaces v1; sent to @InjeraDm.",
+    "v3: redone after Bamlak's correction (NIB Tap = send money to a person by scanning their NIBTap QR). ONE pin recreated (Prime Basket POV: hand + phone bottom, second hand from top right); real NIBTap QR screen warped onto phone; headline 'ስካን ያድርጉ፣ ብር ይላኩ!' chosen by Claude, wording to be confirmed by Bamlak."
    ]
   }
  }
