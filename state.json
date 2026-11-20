@@ -6,7 +6,7 @@
   "previous": "Melat @Mel_Melat 391473037"
  },
  "bot": "@IDMNIBbot",
- "last_update_id": 21051539,
+ "last_update_id": 21051540,
  "posts": {
   "nibtera-online": {
    "status": "approved",
@@ -157,7 +157,7 @@
    ]
   },
   "nibtera-apps": {
-   "version": 2,
+   "version": 3,
    "status": "awaiting",
    "file": "posts/nibtera-apps.png",
    "source": "source/nibtera-apps.html"
