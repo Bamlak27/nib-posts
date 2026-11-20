@@ -107,12 +107,17 @@
       ]
     },
     "nib-mastercard-2": {
-      "version": 1,
+      "version": 2,
       "status": "awaiting_review",
       "headline": "\"የመዝናኛዎ ሁነኛ አጋር!\"",
       "ribbon": "ንብ ማስተር ካርድ",
       "photo": "photo_card2.png",
-      "feedback_log": []
+      "feedback_log": [
+        {
+          "v": 2,
+          "note": "Bamlak (Nov 20): shadow behind taglines too dark - lightened scrim (.72/.5 -> .42/.27)."
+        }
+      ]
     }
   },
   "standing_rules": [
