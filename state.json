@@ -86,7 +86,7 @@
       ]
     },
     "nib-mastercard": {
-      "version": 2,
+      "version": 3,
       "status": "awaiting_review",
       "headline": "የመዝናኛዬ ሁነኛ አጋር!",
       "ribbon": "ንብ ማስተር ካርድ",
@@ -95,6 +95,10 @@
         {
           "v": 2,
           "note": "Bamlak (Nov 20): always add NIBtera Online logo (top-right pill); headline in one line."
+        },
+        {
+          "v": 3,
+          "note": "Bamlak (Nov 20): copy headline font style/boldness/size from his QR reference post; ribbon must be fully rounded (oval on all corners), not squared."
         }
       ]
     }
@@ -104,6 +108,8 @@
     "NIB International Bank logo gets its own white oval background (left:62 top:28) whenever it is not clearly legible on the photo (branding priority). Used on Tap v4.",
     "Scanning/action scenes must clearly show the action (e.g. scanner phone camera aimed at the QR).",
     "When both phones must show screens, use a high-angle photo (green chroma screen on the scanner phone, white on the QR phone) and composite real UI on both.",
-    "Phone owners are different people: give them visibly different hands (use Project files 'Pretty woman hand(s).png' as reference for the woman's hand). For scan scenes use the scanner's first-person POV, scanner phone in foreground aimed at the other phone."
+    "Phone owners are different people: give them visibly different hands (use Project files 'Pretty woman hand(s).png' as reference for the woman's hand). For scan scenes use the scanner's first-person POV, scanner phone in foreground aimed at the other phone.",
+    "NIBtera Online logo (white pill) on every post, top-right (Bamlak, Nov 20).",
+    "Headline font: Nokia Bold (source/NokiaBold.ttf, from Project Amharic font pack) at ~92-96px with 4px same-colour text-stroke for extra boldness, yellow #fdb913; sub-tagline ribbons are fully rounded pills (border-radius 999px), never squared (Bamlak, Nov 20)."
   ]
 }
