@@ -105,6 +105,14 @@
           "note": "Reviewer (@InjeraDm, Nov 20): first tagline wording is \"የመዝናኛዬ ሁነኛዬ አጋር!\" and keep the quotation marks - intentional."
         }
       ]
+    },
+    "nib-mastercard-2": {
+      "version": 1,
+      "status": "awaiting_review",
+      "headline": "\"የመዝናኛዎ ሁነኛ አጋር!\"",
+      "ribbon": "ንብ ማስተር ካርድ",
+      "photo": "photo_card2.png",
+      "feedback_log": []
     }
   },
   "standing_rules": [
