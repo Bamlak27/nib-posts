@@ -124,12 +124,17 @@
       ]
     },
     "nibtera-building": {
-      "version": 1,
+      "version": 2,
       "status": "awaiting_review",
       "headline": "የህንጻዎን ቁጥጥር ካሉበት ሆነው በ[NIBtera Building logo] መቆጣጠር ይችላሉ!",
       "photo": "photo_bld.png",
       "footer_style": "pill band (yellow Follow-us section + brown band, white text), from approved Remit sample",
-      "feedback_log": []
+      "feedback_log": [
+        {
+          "v": 2,
+          "note": "Bamlak (Nov 20): approved-post honeycomb bg for white-bg images; yellow+brown mixed tagline; tagline moved lower; added smaller CTA \"ንብተራ ኦንላይንን አሁኑኑ ይጠቀሙ!\" with App Store/Google Play badges."
+        }
+      ]
     }
   },
   "standing_rules": [
@@ -141,6 +146,8 @@
     "NIBtera Online logo (white pill) on every post, top-right (Bamlak, Nov 20).",
     "Headline font: Nokia Bold (source/NokiaBold.ttf, from Project Amharic font pack) at ~92-96px with 4px same-colour text-stroke for extra boldness, yellow #fdb913; sub-tagline ribbons are fully rounded pills (border-radius 999px), never squared (Bamlak, Nov 20).",
     "Telegram sends: ALWAYS use a commit-pinned URL https://raw.githubusercontent.com/Bamlak27/nib-posts/<full commit sha>/posts/<file>.png (never /main/?v=N - GitHub CDN serves stale cached copies). After sending, check Telegram file_size equals the local file size; if not, resend.",
-    "Footer: content always the same (Follow us+socials+web, QR scan me, 24/7 9698, sign-off) but STYLE must be varied between graphics. Styles so far: (1) full-width brown band; (2) floating pill band with yellow Follow-us section and white text on brown (source/nib-building.html .fb). Product logo top-right changes per service (NIBtera Building for building posts). Logo may also be placed inline in the tagline."
+    "Footer: content always the same (Follow us+socials+web, QR scan me, 24/7 9698, sign-off) but STYLE must be varied between graphics. Styles so far: (1) full-width brown band; (2) floating pill band with yellow Follow-us section and white text on brown (source/nib-building.html .fb). Product logo top-right changes per service (NIBtera Building for building posts). Logo may also be placed inline in the tagline.",
+    "White/plain-background photos: cut out the subject and use source/honey_bg.svg (approved-post honeycomb: large pale cream/yellow hexes + yellow circle behind subject).",
+    "Taglines mix brand yellow #fdb913 and brown (not one colour) and need not sit at the top - place them in free space, lower down when there is room."
   ]
 }
