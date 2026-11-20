@@ -161,6 +161,15 @@
    "status": "awaiting",
    "file": "posts/nibtera-apps.png",
    "source": "source/nibtera-apps.html"
+  },
+  "nibtera-apps-concepts": {
+   "status": "awaiting choice",
+   "files": [
+    "posts/nibtera-apps-c1.png",
+    "posts/nibtera-apps-c2.png",
+    "posts/nibtera-apps-c3.png"
+   ],
+   "note": "Umbrella / Hive / Woven Roof rough drafts for creative director to choose"
   }
  },
  "standing_rules": [
