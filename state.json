@@ -122,6 +122,14 @@
           "note": "First v2 send was a stale cached copy (v1); resent correct v2 via commit-pinned URL, size verified."
         }
       ]
+    },
+    "nibtera-building": {
+      "version": 1,
+      "status": "awaiting_review",
+      "headline": "የህንጻዎን ቁጥጥር ካሉበት ሆነው በ[NIBtera Building logo] መቆጣጠር ይችላሉ!",
+      "photo": "photo_bld.png",
+      "footer_style": "pill band (yellow Follow-us section + brown band, white text), from approved Remit sample",
+      "feedback_log": []
     }
   },
   "standing_rules": [
@@ -132,6 +140,7 @@
     "Phone owners are different people: give them visibly different hands (use Project files 'Pretty woman hand(s).png' as reference for the woman's hand). For scan scenes use the scanner's first-person POV, scanner phone in foreground aimed at the other phone.",
     "NIBtera Online logo (white pill) on every post, top-right (Bamlak, Nov 20).",
     "Headline font: Nokia Bold (source/NokiaBold.ttf, from Project Amharic font pack) at ~92-96px with 4px same-colour text-stroke for extra boldness, yellow #fdb913; sub-tagline ribbons are fully rounded pills (border-radius 999px), never squared (Bamlak, Nov 20).",
-    "Telegram sends: ALWAYS use a commit-pinned URL https://raw.githubusercontent.com/Bamlak27/nib-posts/<full commit sha>/posts/<file>.png (never /main/?v=N - GitHub CDN serves stale cached copies). After sending, check Telegram file_size equals the local file size; if not, resend."
+    "Telegram sends: ALWAYS use a commit-pinned URL https://raw.githubusercontent.com/Bamlak27/nib-posts/<full commit sha>/posts/<file>.png (never /main/?v=N - GitHub CDN serves stale cached copies). After sending, check Telegram file_size equals the local file size; if not, resend.",
+    "Footer: content always the same (Follow us+socials+web, QR scan me, 24/7 9698, sign-off) but STYLE must be varied between graphics. Styles so far: (1) full-width brown band; (2) floating pill band with yellow Follow-us section and white text on brown (source/nib-building.html .fb). Product logo top-right changes per service (NIBtera Building for building posts). Logo may also be placed inline in the tagline."
   ]
 }
