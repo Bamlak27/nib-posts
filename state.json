@@ -6,7 +6,7 @@
     "previous": "Melat @Mel_Melat 391473037"
   },
   "bot": "@IDMNIBbot",
-  "last_update_id": 21051537,
+  "last_update_id": 21051538,
   "posts": {
     "nibtera-online": {
       "status": "approved",
@@ -115,10 +115,10 @@
       ]
     },
     "nib-mastercard-2": {
-      "version": 2,
+      "version": 3,
       "status": "awaiting_review",
-      "headline": "\"የመዝናኛዎ ሁነኛ አጋር!\"",
-      "ribbon": "ንብ ማስተር ካርድ",
+      "headline": "ንብ ማስተር ካርድ",
+      "ribbon": "የጉዞዎ ሁነኛ አጋር!",
       "photo": "photo_card2.png",
       "feedback_log": [
         {
@@ -128,6 +128,10 @@
         {
           "v": 2,
           "note": "First v2 send was a stale cached copy (v1); resent correct v2 via commit-pinned URL, size verified."
+        },
+        {
+          "v": 3,
+          "note": "Reviewer replied to traveller v2 file (Nov 20): top tagline ንብ ማስተር ካርድ; second tagline የጉዞዎ ሁነኛ አጋር!"
         }
       ]
     },
