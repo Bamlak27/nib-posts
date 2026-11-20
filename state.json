@@ -6,7 +6,7 @@
     "previous": "Melat @Mel_Melat 391473037"
   },
   "bot": "@IDMNIBbot",
-  "last_update_id": 21051532,
+  "last_update_id": 21051533,
   "posts": {
     "nibtera-online": {
       "status": "approved",
@@ -86,9 +86,9 @@
       ]
     },
     "nib-mastercard": {
-      "version": 3,
+      "version": 4,
       "status": "awaiting_review",
-      "headline": "የመዝናኛዬ ሁነኛ አጋር!",
+      "headline": "\"የመዝናኛዬ ሁነኛዬ አጋር!\"",
       "ribbon": "ንብ ማስተር ካርድ",
       "photo": "photo_card.png",
       "feedback_log": [
@@ -99,6 +99,10 @@
         {
           "v": 3,
           "note": "Bamlak (Nov 20): copy headline font style/boldness/size from his QR reference post; ribbon must be fully rounded (oval on all corners), not squared."
+        },
+        {
+          "v": 4,
+          "note": "Reviewer (@InjeraDm, Nov 20): first tagline wording is \"የመዝናኛዬ ሁነኛዬ አጋር!\" and keep the quotation marks - intentional."
         }
       ]
     }
