@@ -84,6 +84,14 @@
           "note": "Bamlak (Nov 19): re-do perspective like Paytm inspo - 3/4 side view, two phones angled toward each other, close together, tops nearly touching, both screens visible; all other details kept. v7 built with tilted-screen compositor."
         }
       ]
+    },
+    "nib-mastercard": {
+      "version": 1,
+      "status": "awaiting_review",
+      "headline": "የመዝናኛዬ ሁነኛ አጋር!",
+      "ribbon": "ንብ ማስተር ካርድ",
+      "photo": "photo_card.png",
+      "feedback_log": []
     }
   },
   "standing_rules": [
