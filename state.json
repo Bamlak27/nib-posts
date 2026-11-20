@@ -86,12 +86,17 @@
       ]
     },
     "nib-mastercard": {
-      "version": 1,
+      "version": 2,
       "status": "awaiting_review",
       "headline": "የመዝናኛዬ ሁነኛ አጋር!",
       "ribbon": "ንብ ማስተር ካርድ",
       "photo": "photo_card.png",
-      "feedback_log": []
+      "feedback_log": [
+        {
+          "v": 2,
+          "note": "Bamlak (Nov 20): always add NIBtera Online logo (top-right pill); headline in one line."
+        }
+      ]
     }
   },
   "standing_rules": [
