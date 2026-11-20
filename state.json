@@ -6,7 +6,7 @@
     "previous": "Melat @Mel_Melat 391473037"
   },
   "bot": "@IDMNIBbot",
-  "last_update_id": 21051535,
+  "last_update_id": 21051536,
   "posts": {
     "nibtera-online": {
       "status": "approved",
@@ -86,10 +86,10 @@
       ]
     },
     "nib-mastercard": {
-      "version": 4,
+      "version": 5,
       "status": "awaiting_review",
-      "headline": "\"የመዝናኛዬ ሁነኛዬ አጋር!\"",
-      "ribbon": "ንብ ማስተር ካርድ",
+      "headline": "ንብ ማስተር ካርድ",
+      "ribbon": "የጉዞ ሁነኛ አጋር!",
       "photo": "photo_card.png",
       "feedback_log": [
         {
@@ -103,6 +103,10 @@
         {
           "v": 4,
           "note": "Reviewer (@InjeraDm, Nov 20): first tagline wording is \"የመዝናኛዬ ሁነኛዬ አጋር!\" and keep the quotation marks - intentional."
+        },
+        {
+          "v": 5,
+          "note": "Reviewer replied to the Master Card v4 file (Nov 20): make ንብ ማስተር ካርድ the top tagline; second tagline (pill) becomes የጉዞ ሁነኛ አጋር!"
         }
       ]
     },
@@ -156,6 +160,7 @@
     "Telegram sends: ALWAYS use a commit-pinned URL https://raw.githubusercontent.com/Bamlak27/nib-posts/<full commit sha>/posts/<file>.png (never /main/?v=N - GitHub CDN serves stale cached copies). After sending, check Telegram file_size equals the local file size; if not, resend.",
     "Footer: content always the same (Follow us+socials+web, QR scan me, 24/7 9698, sign-off) but STYLE must be varied between graphics. Styles so far: (1) full-width brown band; (2) floating pill band with yellow Follow-us section and white text on brown (source/nib-building.html .fb). Product logo top-right changes per service (NIBtera Building for building posts). Logo may also be placed inline in the tagline.",
     "White/plain-background photos: cut out the subject and use source/honey_bg.svg (approved-post honeycomb: large pale cream/yellow hexes + yellow circle behind subject).",
-    "Taglines mix brand yellow #fdb913 and brown (not one colour) and need not sit at the top - place them in free space, lower down when there is room."
+    "Taglines mix brand yellow #fdb913 and brown (not one colour) and need not sit at the top - place them in free space, lower down when there is room.",
+    "Reviewer feedback may be a reply to an older file: use reply_to_message in getUpdates (its caption/file_name) to identify which post/version it targets before editing."
   ]
 }
