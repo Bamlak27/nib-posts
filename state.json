@@ -6,7 +6,7 @@
     "previous": "Melat @Mel_Melat 391473037"
   },
   "bot": "@IDMNIBbot",
-  "last_update_id": 21051536,
+  "last_update_id": 21051537,
   "posts": {
     "nibtera-online": {
       "status": "approved",
@@ -86,10 +86,10 @@
       ]
     },
     "nib-mastercard": {
-      "version": 5,
+      "version": 6,
       "status": "awaiting_review",
       "headline": "ንብ ማስተር ካርድ",
-      "ribbon": "የጉዞ ሁነኛ አጋር!",
+      "ribbon": "የጉዞዎ ሁነኛ አጋር!",
       "photo": "photo_card.png",
       "feedback_log": [
         {
@@ -107,6 +107,10 @@
         {
           "v": 5,
           "note": "Reviewer replied to the Master Card v4 file (Nov 20): make ንብ ማስተር ካርድ the top tagline; second tagline (pill) becomes የጉዞ ሁነኛ አጋር!"
+        },
+        {
+          "v": 6,
+          "note": "Reviewer (Nov 20, sent right after v5): second tagline is \"የጉዞዎ ሁነኛ አጋር!\" (ዎ)."
         }
       ]
     },
