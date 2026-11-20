@@ -6,7 +6,7 @@
     "previous": "Melat @Mel_Melat 391473037"
   },
   "bot": "@IDMNIBbot",
-  "last_update_id": 21051533,
+  "last_update_id": 21051534,
   "posts": {
     "nibtera-online": {
       "status": "approved",
@@ -124,7 +124,7 @@
       ]
     },
     "nibtera-building": {
-      "version": 2,
+      "version": 3,
       "status": "awaiting_review",
       "headline": "የህንጻዎን ቁጥጥር ካሉበት ሆነው በ[NIBtera Building logo] መቆጣጠር ይችላሉ!",
       "photo": "photo_bld.png",
@@ -133,6 +133,10 @@
         {
           "v": 2,
           "note": "Bamlak (Nov 20): approved-post honeycomb bg for white-bg images; yellow+brown mixed tagline; tagline moved lower; added smaller CTA \"ንብተራ ኦንላይንን አሁኑኑ ይጠቀሙ!\" with App Store/Google Play badges."
+        },
+        {
+          "v": 3,
+          "note": "Reviewer (@InjeraDm, Nov 20): move download icons + text lower for more space below the tagline."
         }
       ]
     }
