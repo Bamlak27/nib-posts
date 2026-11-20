@@ -6,7 +6,7 @@
     "previous": "Melat @Mel_Melat 391473037"
   },
   "bot": "@IDMNIBbot",
-  "last_update_id": 21051534,
+  "last_update_id": 21051535,
   "posts": {
     "nibtera-online": {
       "status": "approved",
@@ -124,9 +124,9 @@
       ]
     },
     "nibtera-building": {
-      "version": 3,
+      "version": 4,
       "status": "awaiting_review",
-      "headline": "የህንጻዎን ቁጥጥር ካሉበት ሆነው በ[NIBtera Building logo] መቆጣጠር ይችላሉ!",
+      "headline": "የህንጻዎን አስተዳደር ካሉበት ሆነው በ[NIBtera Building logo]",
       "photo": "photo_bld.png",
       "footer_style": "pill band (yellow Follow-us section + brown band, white text), from approved Remit sample",
       "feedback_log": [
@@ -137,6 +137,10 @@
         {
           "v": 3,
           "note": "Reviewer (@InjeraDm, Nov 20): move download icons + text lower for more space below the tagline."
+        },
+        {
+          "v": 4,
+          "note": "Reviewer (@InjeraDm, Nov 20): tagline changed to \"የህንጻዎን አስተዳደር ካሉበት ሆነው በ[logo]\"."
         }
       ]
     }
