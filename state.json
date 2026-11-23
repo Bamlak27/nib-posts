@@ -6,7 +6,7 @@
   "previous": "Melat @Mel_Melat 391473037"
  },
  "bot": "@IDMNIBbot",
- "last_update_id": 21051541,
+ "last_update_id": 21051542,
  "posts": {
   "nibtera-online": {
    "status": "approved",
@@ -179,8 +179,8 @@
    "note": "Month 9 W4 Sunday Interactive: 7 hidden brown bees (cropped from Bee line.png), different sizes. Bee positions (x,y,size): (968,448,46) (877,1043,30) (190,545,26) (640,650,34) (1150,650,22) (560,1142,40) (10,690,60)"
   },
   "nibtera-smart": {
-   "version": 1,
-   "file": "posts/nibtera-smart.png"
+   "version": 2,
+   "file": "posts/nibtera-smart2.png"
   }
  },
  "standing_rules": [
