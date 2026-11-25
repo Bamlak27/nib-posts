@@ -6,7 +6,7 @@
   "previous": "Melat @Mel_Melat 391473037"
  },
  "bot": "@IDMNIBbot",
- "last_update_id": 21051542,
+ "last_update_id": 21051543,
  "posts": {
   "nibtera-online": {
    "status": "approved",
@@ -183,8 +183,8 @@
    "file": "posts/nibtera-smart2.png"
   },
   "nibtera-fayda": {
-   "version": 2,
-   "file": "posts/nibtera-fayda2.png"
+   "version": 3,
+   "file": "posts/nibtera-fayda3.png"
   }
  },
  "standing_rules": [
@@ -233,6 +233,14 @@
    "logos": "NIB pill left, NIBtera Saving pill right"
   },
   "nibtera-fayda2": {
+   "headline": "top-centre single line, all brown",
+   "subject": "full-bleed ChatGPT scene (man seated, eye level), subject right-centre",
+   "support": "exact UI on phone left + exact ID card right, both held; yellow rounded banner bottom-left",
+   "bg": "full-bleed photo with light yellow wash",
+   "footer": "yellow rounded pill with brown outline",
+   "logos": "NIB white pill left, NIBtera Saving plain right"
+  },
+  "nibtera-fayda3": {
    "headline": "top-centre single line, all brown",
    "subject": "full-bleed ChatGPT scene (man seated, eye level), subject right-centre",
    "support": "exact UI on phone left + exact ID card right, both held; yellow rounded banner bottom-left",
