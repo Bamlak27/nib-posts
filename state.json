@@ -185,6 +185,17 @@
   "nibtera-fayda": {
    "version": 3,
    "file": "posts/nibtera-fayda3.png"
+  },
+  "nibtera-remit": {
+   "status": "awaiting_review",
+   "version": 1,
+   "headline": "ከውጭ ወደ ሀገር ቤት፣ በቀላሉ!",
+   "source": "source/nibtera-remit.html",
+   "image": "posts/nibtera-remit.png",
+   "service_source": "Bamlak requested NIBtera Remit launch post (Nov 25); Pinterest inspo: LemFi 'Every Transfer Brings You Closer' family-with-phone pin",
+   "feedback_log": [
+    "v1: NIBtera Remit launch post; ChatGPT family scene (NIB male/female/kid models, phone back to camera, no invented Remit UI) cut out onto yellow; no Remit screen/logo in project files so NIBtera Online logo used top-right"
+   ]
   }
  },
  "standing_rules": [
@@ -247,6 +258,14 @@
    "bg": "full-bleed photo with light yellow wash",
    "footer": "yellow rounded pill with brown outline",
    "logos": "NIB white pill left, NIBtera Saving plain right"
+  },
+  "nibtera-remit": {
+   "headline": "bottom-left, 3 lines brown+white, brown pill tagline beneath",
+   "subject": "family cut-out right, large, bleeding off right/bottom",
+   "support": "USD coin + real 100 birr note with dashed arc, top-left",
+   "bg": "solid yellow + cream glow + white hex outline",
+   "footer": "brown full band",
+   "logos": "NIB white pill left, NIBtera Online white pill right"
   }
  }
 }
