@@ -196,5 +196,37 @@
   "White/plain-background photos: cut out the subject and use source/honey_bg.svg (approved-post honeycomb: large pale cream/yellow hexes + yellow circle behind subject).",
   "Taglines mix brand yellow #fdb913 and brown (not one colour) and need not sit at the top - place them in free space, lower down when there is room.",
   "Reviewer feedback may be a reply to an older file: use reply_to_message in getUpdates (its caption/file_name) to identify which post/version it targets before editing."
- ]
+ ],
+ "layouts": {
+  "nibtera-apps": {
+   "headline": "top-left, 2 words, brown+yellow, pill tagline beneath",
+   "subject": "woman cut-out right on honeycomb+circle",
+   "support": "CTA badges bottom-left",
+   "bg": "honeycomb cream + yellow circle",
+   "footer": "cream card"
+  },
+  "nibtera-bee-hunt": {
+   "headline": "top-left, Az Alkmar large + small 2nd line",
+   "subject": "none (honeycomb scene)",
+   "support": "-",
+   "bg": "honeycomb scene",
+   "footer": "cream card"
+  },
+  "nibtera-smart": {
+   "headline": "top-left, brown+yellow, pill tagline beneath",
+   "subject": "woman cut-out right on honeycomb+circle",
+   "support": "CTA badges bottom-left",
+   "bg": "honeycomb cream + yellow circle",
+   "footer": "brown band"
+  },
+  "nibtera-fayda": {
+   "headline": "giant 2-line brown top-left",
+   "subject": "head&shoulders bottom-right large",
+   "support": "tilted ID card + tilted phone overlapping",
+   "background": "yellow rings + faint hex",
+   "banner": "cream rounded",
+   "footer": "brown full band",
+   "logos": "NIB pill left, NIBtera Saving pill right"
+  }
+ }
 }
