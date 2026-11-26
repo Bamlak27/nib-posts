@@ -237,6 +237,17 @@
    "file": "posts/nibtera-phone.png",
    "status": "awaiting_review",
    "service": "NIB By Phone Number"
+  },
+  "nib-world-elite-debit": {
+   "status": "awaiting_review",
+   "version": 1,
+   "headline": "ንብ ወርልድ ኢሊት ዴቢት ካርድ / ቀዳሚ ምርጫዎ!",
+   "source": "source/nib-world-elite-debit.html",
+   "image": "posts/nib-world-elite-debit.png",
+   "service_source": "Bamlak supplied the card photo (man holding NIB World Elite Debit card) and the golden-sunset background plus both taglines; Miro/Pinterest/ChatGPT steps replaced by his supplied images",
+   "feedback_log": [
+    "v1: sunset bg, supplied transparent man+card cut-out unchanged, headline bottom-left 3 lines white+honey with dark scrim, honey pill tagline, brown full band footer with honey pieces, NIB white pill left, NIBtera Online white pill right"
+   ]
   }
  },
  "standing_rules": [
@@ -342,6 +353,14 @@
    "support": "plain download tagline + store badges in the wall gap between balconies",
    "bg": "honey wall facade with subtle honeycomb (ChatGPT empty-balcony scene)",
    "footer": "full-width cream band with yellow top rule, brown pieces",
+   "logos": "NIB white pill left, NIBtera Online white pill right"
+  },
+  "nib-world-elite-debit": {
+   "headline": "bottom-left, 3 lines white + honey on soft dark scrim, honey pill tagline beneath",
+   "subject": "supplied man+card cut-out, large, right, high-angle, feet on shimmering ground with soft shadows",
+   "support": "honey pill tagline",
+   "bg": "full-bleed golden sunset photo (supplied), unflipped",
+   "footer": "brown full band, honey pieces",
    "logos": "NIB white pill left, NIBtera Online white pill right"
   }
  }
