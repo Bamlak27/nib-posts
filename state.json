@@ -240,7 +240,7 @@
   },
   "nib-world-elite-debit": {
    "status": "awaiting_review",
-   "version": 3,
+   "version": 4,
    "headline": "ንብ ወርልድ ኢሊት ዴቢት ካርድ / ቀዳሚ ምርጫዎ!",
    "source": "source/nib-world-elite-debit.html",
    "image": "posts/nib-world-elite-debit.png",
@@ -248,7 +248,8 @@
    "feedback_log": [
     "v1: sunset bg, supplied transparent man+card cut-out unchanged, headline bottom-left 3 lines white+honey with dark scrim, honey pill tagline, brown full band footer with honey pieces, NIB white pill left, NIBtera Online white pill right",
     "v2 (Bamlak): background didn't fit the man's high camera angle/legs -> generated a new golden-sunset plate in ChatGPT shot from a high angle (ground plane seen from above, sun glare upper-left), re-placed contact + cast shadows under his shoes; everything else unchanged",
-    "v3 (creative director, Miro sticky on v2): 'The shadow of the feet needs fixing!!!' -> replaced blob ellipses with a shadow cast from the man's own leg/shoe silhouette, starting at the sole contact lines (left toe->heel, right heel->toe), sheared away from the sun (upper-left), foreshortened, sharp at contact and softer/fading with distance, plus a thin contact occlusion; script work/shadow_wed.py"
+    "v3 (creative director, Miro sticky on v2): 'The shadow of the feet needs fixing!!!' -> replaced blob ellipses with a shadow cast from the man's own leg/shoe silhouette, starting at the sole contact lines (left toe->heel, right heel->toe), sheared away from the sun (upper-left), foreshortened, sharp at contact and softer/fading with distance, plus a thin contact occlusion; script work/shadow_wed.py",
+    "v4 (Bamlak): taglines moved to the top-left: headline 61px below the NIB logo, tagline pill exactly double that gap (122px) below the headline; headline 84px, pill text 32px so it clears the hand; scrim moved behind the headline for contrast. Everything else unchanged"
    ]
   }
  },
@@ -359,7 +360,7 @@
    "logos": "NIB white pill left, NIBtera Online white pill right"
   },
   "nib-world-elite-debit": {
-   "headline": "bottom-left, 3 lines white + honey on soft dark scrim, honey pill tagline beneath",
+   "headline": "top-left under the NIB logo, 3 lines white + honey on soft dark scrim, honey pill tagline beneath at double the logo-to-headline gap",
    "subject": "supplied man+card cut-out, large, right, high-angle, standing on the golden ground with contact and cast shadows",
    "support": "honey pill tagline",
    "bg": "full-bleed ChatGPT-generated golden sunset plate, high camera angle (ground from above), same theme as supplied sunset",
