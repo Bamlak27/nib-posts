@@ -215,7 +215,8 @@
       "source": "source/nibtera-telebirr2.html",
       "status": "awaiting_review",
       "feedback_log": [
-        "v2 (requester): honeycomb bg when empty, 'ከቴሌብር' in telebirr blue, realistic flame rising from phone without covering screen"
+        "v2 (requester): honeycomb bg when empty, 'ከቴሌብር' in telebirr blue, realistic flame rising from phone without covering screen",
+        "v2 (requester): honeycomb bg when empty, first headline line in telebirr blue #0070b8, realistic wispy smoke rising from phone top without covering screen"
       ]
     }
   },
@@ -300,7 +301,7 @@
       "headline": "bottom-right aligned, 2 lines brown+yellow, brown pill tagline beneath",
       "subject": "full-bleed: realistic flame rising from phone (exact telebirr screen visible) carrying the NIB ATM",
       "support": "brown pill tagline",
-      "bg": "honeycomb cream/yellow with warm glow",
+      "bg": "honeycomb cream (generated honeycomb with light wash)",
       "footer": "full-width yellow band with brown top rule",
       "logos": "NIB white pill left, telebirr white pill right"
     }
