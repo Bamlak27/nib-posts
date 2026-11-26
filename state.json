@@ -6,7 +6,7 @@
     "previous": "Melat @Mel_Melat 391473037"
   },
   "bot": "@IDMNIBbot",
-  "last_update_id": 21051543,
+  "last_update_id": 21051545,
   "posts": {
     "nibtera-online": {
       "status": "approved",
@@ -210,11 +210,13 @@
       ]
     },
     "nibtera-telebirr": {
-      "version": 1,
-      "file": "posts/nibtera-telebirr.png",
-      "source": "source/nibtera-telebirr.html",
+      "version": 2,
+      "file": "posts/nibtera-telebirr2.png",
+      "source": "source/nibtera-telebirr2.html",
       "status": "awaiting_review",
-      "feedback_log": []
+      "feedback_log": [
+        "v2 (requester): honeycomb bg when empty, 'ከቴሌብር' in telebirr blue, realistic flame rising from phone without covering screen"
+      ]
     }
   },
   "standing_rules": [
@@ -296,9 +298,9 @@
     },
     "nibtera-telebirr": {
       "headline": "bottom-right aligned, 2 lines brown+yellow, brown pill tagline beneath",
-      "subject": "full-bleed 3D scene: NIB ATM rising from honey smoke out of a phone at bottom-left (exact telebirr Cash out screen overlaid)",
+      "subject": "full-bleed: realistic flame rising from phone (exact telebirr screen visible) carrying the NIB ATM",
       "support": "brown pill tagline",
-      "bg": "full cream/honey glow render",
+      "bg": "honeycomb cream/yellow with warm glow",
       "footer": "full-width yellow band with brown top rule",
       "logos": "NIB white pill left, telebirr white pill right"
     }
