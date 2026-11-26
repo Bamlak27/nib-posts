@@ -218,6 +218,13 @@
         "v2 (requester): honeycomb bg when empty, 'ከቴሌብር' in telebirr blue, realistic flame rising from phone without covering screen",
         "v2 (requester): honeycomb bg when empty, first headline line in telebirr blue #0070b8, realistic wispy smoke rising from phone top without covering screen"
       ]
+    },
+    "nibtera-vcard": {
+      "version": 1,
+      "file": "posts/nibtera-vcard.png",
+      "source": "source/nibtera-vcard.html",
+      "status": "awaiting_review",
+      "feedback_log": []
     }
   },
   "standing_rules": [
@@ -304,6 +311,14 @@
       "bg": "honeycomb cream (generated honeycomb with light wash)",
       "footer": "full-width yellow band with brown top rule",
       "logos": "NIB white pill left, telebirr white pill right"
+    },
+    "nibtera-vcard": {
+      "headline": "top-left stacked 2 lines, brown + yellow",
+      "subject": "woman seated on sofa shopping on phone, bottom-right, exact virtual card floating centre + exact app screen on floating phone, glass product tiles",
+      "support": "none (floating tiles and coins)",
+      "bg": "honey honeycomb scene (full render)",
+      "footer": "floating yellow rounded pill with brown outline",
+      "logos": "NIB white pill left, NIBtera Virtual Card white pill right"
     }
   }
 }
