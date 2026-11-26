@@ -233,8 +233,8 @@
    ]
   },
   "nibtera-phone": {
-   "version": 2,
-   "file": "posts/nibtera-phone2.png",
+   "version": 3,
+   "file": "posts/nibtera-phone3.png",
    "status": "awaiting_review",
    "service": "NIB By Phone Number"
   },
@@ -354,7 +354,7 @@
   "nibtera-phone": {
    "headline": "top-centre 2 lines, brown + cream (brown shadow)",
    "subject": "ChatGPT scene like the Pinterest inspo: woman left / man right on facing balconies, waist-up, coins arc between phones",
-   "support": "plain download tagline + store badges in wall gap; exact app screens overlaid on both phones",
+   "support": "real 200/100/50 birr notes flying between phones (phone backs to camera); plain download tagline + badges centred in wall gap",
    "bg": "honey wall facade with honeycomb (generated)",
    "footer": "full-width brown band, honey pieces",
    "logos": "NIB white pill left, NIBtera Online white pill right"
@@ -367,5 +367,8 @@
    "footer": "brown full band, honey pieces",
    "logos": "NIB white pill left, NIBtera Online white pill right"
   }
- }
+ },
+ "feedback_log": [
+  "Bamlak Nov 26: man face must match model exactly; phones backs to viewer; replace coins with real birr notes (200/100/50); centre badges"
+ ]
 }
