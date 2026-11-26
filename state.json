@@ -196,6 +196,17 @@
    "feedback_log": [
     "v1: NIBtera Remit launch post; ChatGPT family scene (NIB male/female/kid models, phone back to camera, no invented Remit UI) cut out onto yellow; no Remit screen/logo in project files so NIBtera Online logo used top-right"
    ]
+  },
+  "nibtera-qr": {
+   "status": "awaiting_review",
+   "version": 1,
+   "headline": "በአንድ ስካን፣ ክፍያ ተፈጸመ!",
+   "source": "source/nibtera-qr.html",
+   "image": "posts/nibtera-qr.png",
+   "service_source": "Miro Phase 4, Month 10, Week 1 (Nov 23-29): Thursday slot carries the NIBtera QR caption",
+   "feedback_log": [
+    "v1: NIBtera QR post. ONE Pinterest pin (Epic Pay 'Every scan has a story': hand scanning a QR stand, low angle) recreated in ChatGPT with the real NIB QR stand (ETHQR); scene top extended 140px for headline room; headline top-right; sent to @InjeraDm. Wording flagged to Bamlak for confirmation."
+   ]
   }
  },
  "standing_rules": [
@@ -266,6 +277,14 @@
    "bg": "solid yellow + cream glow + white hex outline",
    "footer": "brown full band",
    "logos": "NIB white pill left, NIBtera Online white pill right"
+  },
+  "nibtera-qr": {
+   "headline": "top-right aligned, 2 words brown+yellow, brown pill tagline beneath",
+   "subject": "full-bleed low-angle POV: hand scanning real NIB QR stand",
+   "support": "none (scan brackets on phone screen)",
+   "bg": "full photo (warm cafe bokeh) with cream wash at top",
+   "footer": "cream card with yellow outline",
+   "logos": "NIB white pill left, NIBtera QR white pill right"
   }
  }
 }
