@@ -220,12 +220,13 @@
       ]
     },
     "nibtera-vcard": {
-      "version": 2,
-      "file": "posts/nibtera-vcard2.png",
-      "source": "source/nibtera-vcard2.html",
+      "version": 3,
+      "file": "posts/nibtera-vcard3.png",
+      "source": "source/nibtera-vcard3.html",
       "status": "awaiting_review",
       "feedback_log": [
-        "v2 (requester): removed coins and phone UI; NIBtera Online logo top-right; NIB yellow-cream theme (no orange); tagline ያሻዎትን በስልክዎ ይገበያዩ !; app-store badges + ንብ ተራ ኦንላይንን አውርደው ይጠቀሙ! CTA"
+        "v2 (requester): removed coins and phone UI; NIBtera Online logo top-right; NIB yellow-cream theme (no orange); tagline ያሻዎትን በስልክዎ ይገበያዩ !; app-store badges + ንብ ተራ ኦንላይንን አውርደው ይጠቀሙ! CTA",
+        "v3 (requester): tagline ያሻዎትን በስልክዎ ይገበያዩ!, CTA ንብተራ ኦንላይንን አውርደው ይጠቀሙ! with store badges, bag + watch tiles moved up so CTA no longer covers bag"
       ]
     }
   },
