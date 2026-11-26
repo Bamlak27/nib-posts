@@ -240,14 +240,15 @@
   },
   "nib-world-elite-debit": {
    "status": "awaiting_review",
-   "version": 2,
+   "version": 3,
    "headline": "ንብ ወርልድ ኢሊት ዴቢት ካርድ / ቀዳሚ ምርጫዎ!",
    "source": "source/nib-world-elite-debit.html",
    "image": "posts/nib-world-elite-debit.png",
    "service_source": "Bamlak supplied the card photo (man holding NIB World Elite Debit card) and the golden-sunset background plus both taglines; Miro/Pinterest/ChatGPT steps replaced by his supplied images",
    "feedback_log": [
     "v1: sunset bg, supplied transparent man+card cut-out unchanged, headline bottom-left 3 lines white+honey with dark scrim, honey pill tagline, brown full band footer with honey pieces, NIB white pill left, NIBtera Online white pill right",
-    "v2 (Bamlak): background didn't fit the man's high camera angle/legs -> generated a new golden-sunset plate in ChatGPT shot from a high angle (ground plane seen from above, sun glare upper-left), re-placed contact + cast shadows under his shoes; everything else unchanged"
+    "v2 (Bamlak): background didn't fit the man's high camera angle/legs -> generated a new golden-sunset plate in ChatGPT shot from a high angle (ground plane seen from above, sun glare upper-left), re-placed contact + cast shadows under his shoes; everything else unchanged",
+    "v3 (creative director, Miro sticky on v2): 'The shadow of the feet needs fixing!!!' -> replaced blob ellipses with a shadow cast from the man's own leg/shoe silhouette, starting at the sole contact lines (left toe->heel, right heel->toe), sheared away from the sun (upper-left), foreshortened, sharp at contact and softer/fading with distance, plus a thin contact occlusion; script work/shadow_wed.py"
    ]
   }
  },
