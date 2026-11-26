@@ -210,24 +210,26 @@
       ]
     },
     "nibtera-telebirr": {
-      "version": 3,
-      "file": "posts/nibtera-telebirr3.png",
-      "source": "source/nibtera-telebirr3.html",
+      "version": 4,
+      "file": "posts/nibtera-telebirr4.png",
+      "source": "source/nibtera-telebirr4.html",
       "status": "awaiting_review",
       "feedback_log": [
         "v2 (requester): honeycomb bg when empty, 'ከቴሌብር' in telebirr blue, realistic flame rising from phone without covering screen",
         "v2 (requester): honeycomb bg when empty, first headline line in telebirr blue #0070b8, realistic wispy smoke rising from phone top without covering screen",
-        "v3 (requester): use updated NIB ATM (attached reference), more visible honeycomb, App Store/Google Play badges with ንብ ተራ ኦንላይንን አውርደው ይጠቀሙ! tagline"
+        "v3 (requester): use updated NIB ATM (attached reference), more visible honeycomb, App Store/Google Play badges with ንብ ተራ ኦንላይንን አውርደው ይጠቀሙ! tagline",
+        "v4 (requester): sign-off in honey on brown like the supplied artwork; tagline ንብተራ ኦንላይንን አውርደው ይጠቀሙ! written without a card; ATM redrawn slim like the reference"
       ]
     },
     "nibtera-vcard": {
-      "version": 3,
-      "file": "posts/nibtera-vcard3.png",
-      "source": "source/nibtera-vcard3.html",
+      "version": 4,
+      "file": "posts/nibtera-vcard4.png",
+      "source": "source/nibtera-vcard4.html",
       "status": "awaiting_review",
       "feedback_log": [
         "v2 (requester): removed coins and phone UI; NIBtera Online logo top-right; NIB yellow-cream theme (no orange); tagline ያሻዎትን በስልክዎ ይገበያዩ !; app-store badges + ንብ ተራ ኦንላይንን አውርደው ይጠቀሙ! CTA",
-        "v3 (requester): tagline ያሻዎትን በስልክዎ ይገበያዩ!, CTA ንብተራ ኦንላይንን አውርደው ይጠቀሙ! with store badges, bag + watch tiles moved up so CTA no longer covers bag"
+        "v3 (requester): tagline ያሻዎትን በስልክዎ ይገበያዩ!, CTA ንብተራ ኦንላይንን አውርደው ይጠቀሙ! with store badges, bag + watch tiles moved up so CTA no longer covers bag",
+        "v4 (requester): sign-off in honey on brown like the supplied artwork; tagline ንብተራ ኦንላይንን አውርደው ይጠቀሙ! written without a card"
       ]
     }
   },
@@ -246,7 +248,8 @@
     "Reviewer feedback may be a reply to an older file: use reply_to_message in getUpdates (its caption/file_name) to identify which post/version it targets before editing.",
     "Never change the NIB colour theme: yellow #fdb913, brown #8a4d1f, cream; no orange backgrounds (Bamlak, Nov 26)",
     "Whenever a phone appears, add App Store + Google Play badges with the line ንብ ተራ ኦንላይንን አውርደው ይጠቀሙ! (Bamlak, Nov 26)",
-    "Use the updated NIB ATM (yellow body, brown top/side panel with white zigzag, black base, bee icon) from the director's reference image in all ATM scenes (Bamlak, Nov 26)"
+    "Use the updated NIB ATM (yellow body, brown top/side panel with white zigzag, black base, bee icon) from the director's reference image in all ATM scenes (Bamlak, Nov 26)",
+    "Sign-off must look like the supplied yellow/honey bee-line artwork (use c_sig on brown); download tagline is ንብተራ ኦንላይንን አውርደው ይጠቀሙ! written plain, no card needed; the NIB ATM must be slim/tall like the reference (Bamlak, Nov 26)"
   ],
   "layouts": {
     "nibtera-apps": {
@@ -314,17 +317,17 @@
     "nibtera-telebirr": {
       "headline": "bottom-right aligned, 2 lines brown+yellow, brown pill tagline beneath",
       "subject": "full-bleed: realistic flame rising from phone (exact telebirr screen visible) carrying the NIB ATM",
-      "support": "brown pill tagline + cream CTA card with store badges bottom-right",
+      "support": "brown pill tagline + plain download tagline and store badges",
       "bg": "honeycomb cream (generated honeycomb with light wash)",
-      "footer": "full-width yellow band with brown top rule",
+      "footer": "full-width brown band, honey pieces",
       "logos": "NIB white pill left, telebirr white pill right"
     },
     "nibtera-vcard": {
       "headline": "top-left stacked 2 lines, brown + yellow",
       "subject": "woman seated on sofa shopping on phone, bottom-right, exact virtual card floating centre + exact app screen on floating phone, glass product tiles",
-      "support": "cream CTA card bottom-left with App Store / Google Play badges",
+      "support": "plain download tagline and store badges bottom-left",
       "bg": "honey honeycomb scene (full render)",
-      "footer": "floating yellow rounded pill with brown outline",
+      "footer": "brown rounded pill with yellow outline, honey pieces",
       "logos": "NIB white pill left, NIBtera Online white pill right"
     }
   }
