@@ -240,13 +240,14 @@
   },
   "nib-world-elite-debit": {
    "status": "awaiting_review",
-   "version": 1,
+   "version": 2,
    "headline": "ንብ ወርልድ ኢሊት ዴቢት ካርድ / ቀዳሚ ምርጫዎ!",
    "source": "source/nib-world-elite-debit.html",
    "image": "posts/nib-world-elite-debit.png",
    "service_source": "Bamlak supplied the card photo (man holding NIB World Elite Debit card) and the golden-sunset background plus both taglines; Miro/Pinterest/ChatGPT steps replaced by his supplied images",
    "feedback_log": [
-    "v1: sunset bg, supplied transparent man+card cut-out unchanged, headline bottom-left 3 lines white+honey with dark scrim, honey pill tagline, brown full band footer with honey pieces, NIB white pill left, NIBtera Online white pill right"
+    "v1: sunset bg, supplied transparent man+card cut-out unchanged, headline bottom-left 3 lines white+honey with dark scrim, honey pill tagline, brown full band footer with honey pieces, NIB white pill left, NIBtera Online white pill right",
+    "v2 (Bamlak): background didn't fit the man's high camera angle/legs -> generated a new golden-sunset plate in ChatGPT shot from a high angle (ground plane seen from above, sun glare upper-left), re-placed contact + cast shadows under his shoes; everything else unchanged"
    ]
   }
  },
@@ -357,9 +358,9 @@
   },
   "nib-world-elite-debit": {
    "headline": "bottom-left, 3 lines white + honey on soft dark scrim, honey pill tagline beneath",
-   "subject": "supplied man+card cut-out, large, right, high-angle, feet on shimmering ground with soft shadows",
+   "subject": "supplied man+card cut-out, large, right, high-angle, standing on the golden ground with contact and cast shadows",
    "support": "honey pill tagline",
-   "bg": "full-bleed golden sunset photo (supplied), unflipped",
+   "bg": "full-bleed ChatGPT-generated golden sunset plate, high camera angle (ground from above), same theme as supplied sunset",
    "footer": "brown full band, honey pieces",
    "logos": "NIB white pill left, NIBtera Online white pill right"
   }
