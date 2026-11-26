@@ -199,13 +199,14 @@
   },
   "nibtera-qr": {
    "status": "awaiting_review",
-   "version": 1,
+   "version": 2,
    "headline": "በአንድ ስካን፣ ክፍያ ተፈጸመ!",
-   "source": "source/nibtera-qr.html",
-   "image": "posts/nibtera-qr.png",
+   "source": "source/nibtera-qr2.html",
+   "image": "posts/nibtera-qr2.png",
    "service_source": "Miro Phase 4, Month 10, Week 1 (Nov 23-29): Thursday slot carries the NIBtera QR caption",
    "feedback_log": [
-    "v1: NIBtera QR post. ONE Pinterest pin (Epic Pay 'Every scan has a story': hand scanning a QR stand, low angle) recreated in ChatGPT with the real NIB QR stand (ETHQR); scene top extended 140px for headline room; headline top-right; sent to @InjeraDm. Wording flagged to Bamlak for confirmation."
+    "v1: NIBtera QR post. ONE Pinterest pin (Epic Pay 'Every scan has a story': hand scanning a QR stand, low angle) recreated in ChatGPT with the real NIB QR stand (ETHQR); scene top extended 140px for headline room; headline top-right; sent to @InjeraDm. Wording flagged to Bamlak for confirmation.",
+    "v2 (Bamlak, before review): reverse the direction of the stand and hand/phone because a previously approved QR post has the same direction. ChatGPT regenerated the scene: stand on the right, hand and phone from the left (stand text not mirrored); top extended 70px; layout otherwise unchanged. v1 file kept until approval."
    ]
   }
  },
@@ -280,7 +281,7 @@
   },
   "nibtera-qr": {
    "headline": "top-right aligned, 2 words brown+yellow, brown pill tagline beneath",
-   "subject": "full-bleed low-angle POV: hand scanning real NIB QR stand",
+   "subject": "full-bleed low-angle POV: stand on the RIGHT, hand with phone from the LEFT, scanning the real NIB QR stand",
    "support": "none (scan brackets on phone screen)",
    "bg": "full photo (warm cafe bokeh) with cream wash at top",
    "footer": "cream card with yellow outline",
