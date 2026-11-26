@@ -251,6 +251,11 @@
     "v3 (creative director, Miro sticky on v2): 'The shadow of the feet needs fixing!!!' -> replaced blob ellipses with a shadow cast from the man's own leg/shoe silhouette, starting at the sole contact lines (left toe->heel, right heel->toe), sheared away from the sun (upper-left), foreshortened, sharp at contact and softer/fading with distance, plus a thin contact occlusion; script work/shadow_wed.py",
     "v4 (Bamlak): taglines moved to the top-left: headline 61px below the NIB logo, tagline pill exactly double that gap (122px) below the headline; headline 84px, pill text 32px so it clears the hand; scrim moved behind the headline for contrast. Everything else unchanged"
    ]
+  },
+  "nibtera-taxi": {
+   "version": 1,
+   "file": "posts/nibtera-taxi.png",
+   "status": "awaiting_review"
   }
  },
  "standing_rules": [
@@ -366,10 +371,18 @@
    "bg": "full-bleed ChatGPT-generated golden sunset plate, high camera angle (ground from above), same theme as supplied sunset",
    "footer": "brown full band, honey pieces",
    "logos": "NIB white pill left, NIBtera Online white pill right"
+  },
+  "nibtera-taxi": {
+   "headline": "bottom-left over honeycomb seat",
+   "subject": "first-person passenger hand + phone, driver from behind",
+   "support": "plain tagline + badges under headline",
+   "bg": "full photo (taxi interior)",
+   "footer": "yellow rounded pill with brown outline"
   }
  },
  "feedback_log": [
   "Bamlak Nov 26: man face must match model exactly; phones backs to viewer; replace coins with real birr notes (200/100/50); centre badges",
-  "Bamlak Nov 26: faces must look exactly like his reference (neat-beard man, ponytail woman); notes small (a bit bigger than coins), placed exactly like the inspo coins"
+  "Bamlak Nov 26: faces must look exactly like his reference (neat-beard man, ponytail woman); notes small (a bit bigger than coins), placed exactly like the inspo coins",
+  "Nov 26: balcony phone concept rejected; new taxi POV design, no models"
  ]
 }
