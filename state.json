@@ -1,291 +1,306 @@
 {
- "reviewer": {
-  "name": "Injera Digital Marketing",
-  "username": "InjeraDm",
-  "chat_id": 6864763984,
-  "previous": "Melat @Mel_Melat 391473037"
- },
- "bot": "@IDMNIBbot",
- "last_update_id": 21051543,
- "posts": {
-  "nibtera-online": {
-   "status": "approved",
-   "version": 10,
-   "source": "source/nibtera-online.html",
-   "image": "posts/nibtera-online.png",
-   "feedback_log": [
-    "v7: change headline to ንብተራ ኦንላይን!",
-    "v8: change headline back to the first revision (ባንክዎ በእጅዎ!)",
-    "v9: asked to change headline to ኣሰደፈገ ኣሰደፈገ ኣሰደፈ! (not recognisable Amharic) - asked reviewer to confirm, design unchanged",
-    "v9: reviewer confirmed headline ኣሰደፈገ ኣሰደፈገ ኣሰደፈ! is intentional; applied on 3 lines at 86px (v10)",
-    "v10: reviewer replied 'Approved' - final"
-   ]
+  "reviewer": {
+    "name": "Injera Digital Marketing",
+    "username": "InjeraDm",
+    "chat_id": 6864763984,
+    "previous": "Melat @Mel_Melat 391473037"
   },
-  "nibtera-bus-ticket": {
-   "status": "approved",
-   "version": 1,
-   "headline": "ትኬት በስልክ፣ ጉዞ በቀላሉ!",
-   "source": "source/nibtera-bus-ticket.html",
-   "image": "posts/nibtera-bus-ticket.png",
-   "feedback_log": [
-    "v1 test run: new post (NIBtera Bus Ticket), headline 'ትኬት በስልክ፣ ጉዞ በቀላሉ!' chosen by Claude; asked Melat to confirm wording",
-    "Melat replied 'Approved' (Nov 18, update 21051526) -> approved at v1"
-   ]
-  },
-  "nibtera-loan": {
-   "status": "dropped",
-   "version": 1,
-   "headline": "ብድር ባሉበት ሆነው፣ በንብተራ!",
-   "source": "source/nibtera-loan.html",
-   "image": "posts/nibtera-loan.png",
-   "feedback_log": [
-    "v1: NIBtera Loan post (male model, real NIBtera Loan app screen showing Salary Advance); headline chosen by Claude, asked Melat to check wording; caption draft sent as separate message",
-    "Dropped by Bamlak (Nov 18): not in the weekly services plan; kept only as a spare. Melat told to ignore it."
-   ]
-  },
-  "nibtera-cardless": {
-   "status": "awaiting_review",
-   "version": 4,
-   "headline": "ካርድ ሳይዙ፣ ገንዘብዎን በስልክ ያውጡ!",
-   "source": "source/nibtera-cardless.html",
-   "image": "posts/nibtera-cardless.png",
-   "service_source": "Miro 'This week contents' sticky (Phase 4, Month 9, week 4): NIBtera Cardless",
-   "feedback_log": [
-    "v1: NIBtera Cardless post (female model, real Cardless screen, NIBtera Online logo); headline chosen by Claude",
-    "v2 (Bamlak's edits before Melat replied): headline moved down away from NIB logo; product logo no longer overlaps model's head (photo shifted down, logo smaller); background ATM removed (not NIB's). Standing rules: keep headline well clear of the NIB logo; product logo must never cover the model; no non-NIB ATMs/brands in backgrounds.",
-    "Melat replied 'Approved' right after v2 was sent (treated as approval of Cardless v2; posting day/time not yet given).",
-    "v3: rebuilt from a freshly generated photo (headroom, no ATM/signage, natural hands) per Bamlak's quality feedback on v1/v2; real Cardless screen warped to the tilted phone; headline moved to free sky area left; product logo over foliage. Sent to Melat without waiting for Bamlak. Melat had said 'Approved' to v2.",
-    "Nov 18 (update 21051528): Melat sent NIB headquarters photo (Image 103.png): use it whenever a building appears in a background. Design unchanged; asked Melat whether to add HQ behind model on Cardless or keep as is. Standing rule: only NIB HQ for background buildings.",
-    "Nov 18 (update 21051529): Melat clarified the issue is the far-back blurred skyline in the Cardless background; asked for a fix. Tried removing it by editing: left a visible smudge, so NOT applied. Asked Melat (msg 32) to confirm regenerating the background (NIB HQ vs plain trees/sky). Design unchanged (v3). Needs a regenerated photo (Bamlak).",
-    "Nov 18 (update 21051530): Melat confirmed: regenerate background with NIB HQ behind her. No image-generation tool in this loop, so v4 NOT produced; told Melat it's with Bamlak. TODO (Bamlak): regenerate photo_cardless.png with NIB HQ (project file 'NIB HQ.png') as background, keep same model/phone screen rules, then re-render and send v4.",
-    "Nov 18: creative director changed to @InjeraDm (chat 6864763984). Scheduled checks switched off to save usage; feedback is now checked only when Bamlak asks.",
-    "v4: photo regenerated with NIB HQ in the background (replacing the skyline), same model and pose; real Cardless screen re-warped to the new phone; headline moved to the free road area bottom-left (HQ now fills the top-left). Sent to @InjeraDm."
-   ]
-  },
-  "nibtera-tap": {
-   "status": "awaiting_review",
-   "version": 7,
-   "headline": "ስካን ያድርጉ፣ ብር ይላኩ!",
-   "source": "source/nibtera-tap.html",
-   "image": "posts/nibtera-tap.png",
-   "service_source": "Miro 'This week contents' sticky (Phase 4, Month 9, week 4): 14. NIB Tap",
-   "feedback_log": [
-    "v1: NIB Tap post. Pinterest board NIB INSPOS (floating-items-on-ribbon POS pin, hand-with-phone-in-scene pin) inspired a golden ribbon carrying everyday things (coffee, bag, ticket, bread) out of the phone; man in brown blazer showing real NIBTap QR screen; headline top-left in free space; product logo kept clear of head. Headline wording 'ስልክዎን ያሳዩ፣ ይክፈሉ!' flagged to Bamlak as day-to-day wording to confirm. Sent to @InjeraDm; no scheduled checks (feedback processed on request).",
-    "v2 (Bamlak): rebuilt from ONE Pinterest pin only (Bureau de Change POS pin: receipt-style ribbon in an S-curve carrying everyday items out of the device), no model. Cream ribbon rises from the real NIBTap QR phone carrying coffee, bag, ticket, bread; headline top-left in free space. Replaces v1; sent to @InjeraDm.",
-    "v3: redone after Bamlak's correction (NIB Tap = send money to a person by scanning their NIBTap QR). ONE pin recreated (Prime Basket POV: hand + phone bottom, second hand from top right); real NIBTap QR screen warped onto phone; headline 'ስካን ያድርጉ፣ ብር ይላኩ!' chosen by Claude, wording to be confirmed by Bamlak.",
-    "Reviewer on v3: (1) other phone must be shown scanning the one with the interface; (2) NIBtera Online logo must never move from top-right; (3) NIB International Bank logo gets a white oval background of its own when not legible (branding priority).",
-    "v4: scanner hand now enters from the right edge, phone camera aimed at the QR (overlapping the screen's top-right corner) + white scan brackets and scan line over the QR; NIBtera Online pill back top-right; NIB logo on white oval; headline unchanged.",
-    "Bamlak on v4: scanning looked unrealistic; scanner phone's camera must face the QR phone BUT both screens must be visible, with realistic proportion/perspective.",
-    "v5: high-angle (about 60 deg) photo, two upright phones side by side; left = real NIBTap QR screen, right = scanner viewfinder (my mock: dimmed camera feed of the QR with white brackets and scan line; no real NIB scanner screen exists in Project). Headline switched to yellow for contrast. Composite script: source/comp_two_phones.py.",
-    "Bamlak on v5: scanner phone's back camera was not facing the QR phone (looked side by side); needs the scanner person's point of view; the two hands must not look alike, use the woman's hand from the Project files for the QR phone's owner.",
-    "v6: true first-person scanner POV (man's hand with watch holds scanner phone in foreground, tilted toward the woman's phone further away; woman's hand built from Project refs 'Pretty woman hand' + 'Inside' with clover bracelet). Real NIBTap QR on her phone; scanner viewfinder (my mock) on his. Script source/comp_pov_scan.py.",
-    {
-     "v": 7,
-     "note": "Bamlak (Nov 19): re-do perspective like Paytm inspo - 3/4 side view, two phones angled toward each other, close together, tops nearly touching, both screens visible; all other details kept. v7 built with tilted-screen compositor."
+  "bot": "@IDMNIBbot",
+  "last_update_id": 21051543,
+  "posts": {
+    "nibtera-online": {
+      "status": "approved",
+      "version": 10,
+      "source": "source/nibtera-online.html",
+      "image": "posts/nibtera-online.png",
+      "feedback_log": [
+        "v7: change headline to ንብተራ ኦንላይን!",
+        "v8: change headline back to the first revision (ባንክዎ በእጅዎ!)",
+        "v9: asked to change headline to ኣሰደፈገ ኣሰደፈገ ኣሰደፈ! (not recognisable Amharic) - asked reviewer to confirm, design unchanged",
+        "v9: reviewer confirmed headline ኣሰደፈገ ኣሰደፈገ ኣሰደፈ! is intentional; applied on 3 lines at 86px (v10)",
+        "v10: reviewer replied 'Approved' - final"
+      ]
+    },
+    "nibtera-bus-ticket": {
+      "status": "approved",
+      "version": 1,
+      "headline": "ትኬት በስልክ፣ ጉዞ በቀላሉ!",
+      "source": "source/nibtera-bus-ticket.html",
+      "image": "posts/nibtera-bus-ticket.png",
+      "feedback_log": [
+        "v1 test run: new post (NIBtera Bus Ticket), headline 'ትኬት በስልክ፣ ጉዞ በቀላሉ!' chosen by Claude; asked Melat to confirm wording",
+        "Melat replied 'Approved' (Nov 18, update 21051526) -> approved at v1"
+      ]
+    },
+    "nibtera-loan": {
+      "status": "dropped",
+      "version": 1,
+      "headline": "ብድር ባሉበት ሆነው፣ በንብተራ!",
+      "source": "source/nibtera-loan.html",
+      "image": "posts/nibtera-loan.png",
+      "feedback_log": [
+        "v1: NIBtera Loan post (male model, real NIBtera Loan app screen showing Salary Advance); headline chosen by Claude, asked Melat to check wording; caption draft sent as separate message",
+        "Dropped by Bamlak (Nov 18): not in the weekly services plan; kept only as a spare. Melat told to ignore it."
+      ]
+    },
+    "nibtera-cardless": {
+      "status": "awaiting_review",
+      "version": 4,
+      "headline": "ካርድ ሳይዙ፣ ገንዘብዎን በስልክ ያውጡ!",
+      "source": "source/nibtera-cardless.html",
+      "image": "posts/nibtera-cardless.png",
+      "service_source": "Miro 'This week contents' sticky (Phase 4, Month 9, week 4): NIBtera Cardless",
+      "feedback_log": [
+        "v1: NIBtera Cardless post (female model, real Cardless screen, NIBtera Online logo); headline chosen by Claude",
+        "v2 (Bamlak's edits before Melat replied): headline moved down away from NIB logo; product logo no longer overlaps model's head (photo shifted down, logo smaller); background ATM removed (not NIB's). Standing rules: keep headline well clear of the NIB logo; product logo must never cover the model; no non-NIB ATMs/brands in backgrounds.",
+        "Melat replied 'Approved' right after v2 was sent (treated as approval of Cardless v2; posting day/time not yet given).",
+        "v3: rebuilt from a freshly generated photo (headroom, no ATM/signage, natural hands) per Bamlak's quality feedback on v1/v2; real Cardless screen warped to the tilted phone; headline moved to free sky area left; product logo over foliage. Sent to Melat without waiting for Bamlak. Melat had said 'Approved' to v2.",
+        "Nov 18 (update 21051528): Melat sent NIB headquarters photo (Image 103.png): use it whenever a building appears in a background. Design unchanged; asked Melat whether to add HQ behind model on Cardless or keep as is. Standing rule: only NIB HQ for background buildings.",
+        "Nov 18 (update 21051529): Melat clarified the issue is the far-back blurred skyline in the Cardless background; asked for a fix. Tried removing it by editing: left a visible smudge, so NOT applied. Asked Melat (msg 32) to confirm regenerating the background (NIB HQ vs plain trees/sky). Design unchanged (v3). Needs a regenerated photo (Bamlak).",
+        "Nov 18 (update 21051530): Melat confirmed: regenerate background with NIB HQ behind her. No image-generation tool in this loop, so v4 NOT produced; told Melat it's with Bamlak. TODO (Bamlak): regenerate photo_cardless.png with NIB HQ (project file 'NIB HQ.png') as background, keep same model/phone screen rules, then re-render and send v4.",
+        "Nov 18: creative director changed to @InjeraDm (chat 6864763984). Scheduled checks switched off to save usage; feedback is now checked only when Bamlak asks.",
+        "v4: photo regenerated with NIB HQ in the background (replacing the skyline), same model and pose; real Cardless screen re-warped to the new phone; headline moved to the free road area bottom-left (HQ now fills the top-left). Sent to @InjeraDm."
+      ]
+    },
+    "nibtera-tap": {
+      "status": "awaiting_review",
+      "version": 7,
+      "headline": "ስካን ያድርጉ፣ ብር ይላኩ!",
+      "source": "source/nibtera-tap.html",
+      "image": "posts/nibtera-tap.png",
+      "service_source": "Miro 'This week contents' sticky (Phase 4, Month 9, week 4): 14. NIB Tap",
+      "feedback_log": [
+        "v1: NIB Tap post. Pinterest board NIB INSPOS (floating-items-on-ribbon POS pin, hand-with-phone-in-scene pin) inspired a golden ribbon carrying everyday things (coffee, bag, ticket, bread) out of the phone; man in brown blazer showing real NIBTap QR screen; headline top-left in free space; product logo kept clear of head. Headline wording 'ስልክዎን ያሳዩ፣ ይክፈሉ!' flagged to Bamlak as day-to-day wording to confirm. Sent to @InjeraDm; no scheduled checks (feedback processed on request).",
+        "v2 (Bamlak): rebuilt from ONE Pinterest pin only (Bureau de Change POS pin: receipt-style ribbon in an S-curve carrying everyday items out of the device), no model. Cream ribbon rises from the real NIBTap QR phone carrying coffee, bag, ticket, bread; headline top-left in free space. Replaces v1; sent to @InjeraDm.",
+        "v3: redone after Bamlak's correction (NIB Tap = send money to a person by scanning their NIBTap QR). ONE pin recreated (Prime Basket POV: hand + phone bottom, second hand from top right); real NIBTap QR screen warped onto phone; headline 'ስካን ያድርጉ፣ ብር ይላኩ!' chosen by Claude, wording to be confirmed by Bamlak.",
+        "Reviewer on v3: (1) other phone must be shown scanning the one with the interface; (2) NIBtera Online logo must never move from top-right; (3) NIB International Bank logo gets a white oval background of its own when not legible (branding priority).",
+        "v4: scanner hand now enters from the right edge, phone camera aimed at the QR (overlapping the screen's top-right corner) + white scan brackets and scan line over the QR; NIBtera Online pill back top-right; NIB logo on white oval; headline unchanged.",
+        "Bamlak on v4: scanning looked unrealistic; scanner phone's camera must face the QR phone BUT both screens must be visible, with realistic proportion/perspective.",
+        "v5: high-angle (about 60 deg) photo, two upright phones side by side; left = real NIBTap QR screen, right = scanner viewfinder (my mock: dimmed camera feed of the QR with white brackets and scan line; no real NIB scanner screen exists in Project). Headline switched to yellow for contrast. Composite script: source/comp_two_phones.py.",
+        "Bamlak on v5: scanner phone's back camera was not facing the QR phone (looked side by side); needs the scanner person's point of view; the two hands must not look alike, use the woman's hand from the Project files for the QR phone's owner.",
+        "v6: true first-person scanner POV (man's hand with watch holds scanner phone in foreground, tilted toward the woman's phone further away; woman's hand built from Project refs 'Pretty woman hand' + 'Inside' with clover bracelet). Real NIBTap QR on her phone; scanner viewfinder (my mock) on his. Script source/comp_pov_scan.py.",
+        {
+          "v": 7,
+          "note": "Bamlak (Nov 19): re-do perspective like Paytm inspo - 3/4 side view, two phones angled toward each other, close together, tops nearly touching, both screens visible; all other details kept. v7 built with tilted-screen compositor."
+        }
+      ]
+    },
+    "nib-mastercard": {
+      "version": 6,
+      "status": "awaiting_review",
+      "headline": "ንብ ማስተር ካርድ",
+      "ribbon": "የጉዞዎ ሁነኛ አጋር!",
+      "photo": "photo_card.png",
+      "feedback_log": [
+        {
+          "v": 2,
+          "note": "Bamlak (Nov 20): always add NIBtera Online logo (top-right pill); headline in one line."
+        },
+        {
+          "v": 3,
+          "note": "Bamlak (Nov 20): copy headline font style/boldness/size from his QR reference post; ribbon must be fully rounded (oval on all corners), not squared."
+        },
+        {
+          "v": 4,
+          "note": "Reviewer (@InjeraDm, Nov 20): first tagline wording is \"የመዝናኛዬ ሁነኛዬ አጋር!\" and keep the quotation marks - intentional."
+        },
+        {
+          "v": 5,
+          "note": "Reviewer replied to the Master Card v4 file (Nov 20): make ንብ ማስተር ካርድ the top tagline; second tagline (pill) becomes የጉዞ ሁነኛ አጋር!"
+        },
+        {
+          "v": 6,
+          "note": "Reviewer (Nov 20, sent right after v5): second tagline is \"የጉዞዎ ሁነኛ አጋር!\" (ዎ)."
+        }
+      ]
+    },
+    "nib-mastercard-2": {
+      "version": 3,
+      "status": "awaiting_review",
+      "headline": "ንብ ማስተር ካርድ",
+      "ribbon": "የጉዞዎ ሁነኛ አጋር!",
+      "photo": "photo_card2.png",
+      "feedback_log": [
+        {
+          "v": 2,
+          "note": "Bamlak (Nov 20): shadow behind taglines too dark - lightened scrim (.72/.5 -> .42/.27)."
+        },
+        {
+          "v": 2,
+          "note": "First v2 send was a stale cached copy (v1); resent correct v2 via commit-pinned URL, size verified."
+        },
+        {
+          "v": 3,
+          "note": "Reviewer replied to traveller v2 file (Nov 20): top tagline ንብ ማስተር ካርድ; second tagline የጉዞዎ ሁነኛ አጋር!"
+        }
+      ]
+    },
+    "nibtera-building": {
+      "version": 4,
+      "status": "awaiting_review",
+      "headline": "የህንጻዎን አስተዳደር ካሉበት ሆነው በ[NIBtera Building logo]",
+      "photo": "photo_bld.png",
+      "footer_style": "pill band (yellow Follow-us section + brown band, white text), from approved Remit sample",
+      "feedback_log": [
+        {
+          "v": 2,
+          "note": "Bamlak (Nov 20): approved-post honeycomb bg for white-bg images; yellow+brown mixed tagline; tagline moved lower; added smaller CTA \"ንብተራ ኦንላይንን አሁኑኑ ይጠቀሙ!\" with App Store/Google Play badges."
+        },
+        {
+          "v": 3,
+          "note": "Reviewer (@InjeraDm, Nov 20): move download icons + text lower for more space below the tagline."
+        },
+        {
+          "v": 4,
+          "note": "Reviewer (@InjeraDm, Nov 20): tagline changed to \"የህንጻዎን አስተዳደር ካሉበት ሆነው በ[logo]\"."
+        }
+      ]
+    },
+    "nibtera-apps": {
+      "version": 3,
+      "status": "awaiting",
+      "file": "posts/nibtera-apps.png",
+      "source": "source/nibtera-apps.html"
+    },
+    "nibtera-apps-concepts": {
+      "status": "awaiting choice",
+      "files": [
+        "posts/nibtera-apps-c1.png",
+        "posts/nibtera-apps-c2.png",
+        "posts/nibtera-apps-c3.png"
+      ],
+      "note": "Umbrella / Hive / Woven Roof rough drafts for creative director to choose"
+    },
+    "nibtera-bee-hunt": {
+      "version": 2,
+      "status": "awaiting",
+      "file": "posts/nibtera-bee-hunt2.png",
+      "source": "source/nibtera-bee-hunt7.html",
+      "note": "Month 9 W4 Sunday Interactive: 7 hidden brown bees (cropped from Bee line.png), different sizes. Bee positions (x,y,size): (968,448,46) (877,1043,30) (190,545,26) (640,650,34) (1150,650,22) (560,1142,40) (10,690,60)"
+    },
+    "nibtera-smart": {
+      "version": 2,
+      "file": "posts/nibtera-smart2.png"
+    },
+    "nibtera-fayda": {
+      "version": 3,
+      "file": "posts/nibtera-fayda3.png"
+    },
+    "nibtera-remit": {
+      "status": "awaiting_review",
+      "version": 1,
+      "headline": "ከውጭ ወደ ሀገር ቤት፣ በቀላሉ!",
+      "source": "source/nibtera-remit.html",
+      "image": "posts/nibtera-remit.png",
+      "service_source": "Bamlak requested NIBtera Remit launch post (Nov 25); Pinterest inspo: LemFi 'Every Transfer Brings You Closer' family-with-phone pin",
+      "feedback_log": [
+        "v1: NIBtera Remit launch post; ChatGPT family scene (NIB male/female/kid models, phone back to camera, no invented Remit UI) cut out onto yellow; no Remit screen/logo in project files so NIBtera Online logo used top-right"
+      ]
+    },
+    "nibtera-qr": {
+      "status": "awaiting_review",
+      "version": 2,
+      "headline": "በአንድ ስካን፣ ክፍያ ተፈጸመ!",
+      "source": "source/nibtera-qr2.html",
+      "image": "posts/nibtera-qr2.png",
+      "service_source": "Miro Phase 4, Month 10, Week 1 (Nov 23-29): Thursday slot carries the NIBtera QR caption",
+      "feedback_log": [
+        "v1: NIBtera QR post. ONE Pinterest pin (Epic Pay 'Every scan has a story': hand scanning a QR stand, low angle) recreated in ChatGPT with the real NIB QR stand (ETHQR); scene top extended 140px for headline room; headline top-right; sent to @InjeraDm. Wording flagged to Bamlak for confirmation.",
+        "v2 (Bamlak, before review): reverse the direction of the stand and hand/phone because a previously approved QR post has the same direction. ChatGPT regenerated the scene: stand on the right, hand and phone from the left (stand text not mirrored); top extended 70px; layout otherwise unchanged. v1 file kept until approval."
+      ]
+    },
+    "nibtera-telebirr": {
+      "version": 1,
+      "file": "posts/nibtera-telebirr.png",
+      "source": "source/nibtera-telebirr.html",
+      "status": "awaiting_review",
+      "feedback_log": []
     }
-   ]
   },
-  "nib-mastercard": {
-   "version": 6,
-   "status": "awaiting_review",
-   "headline": "ንብ ማስተር ካርድ",
-   "ribbon": "የጉዞዎ ሁነኛ አጋር!",
-   "photo": "photo_card.png",
-   "feedback_log": [
-    {
-     "v": 2,
-     "note": "Bamlak (Nov 20): always add NIBtera Online logo (top-right pill); headline in one line."
+  "standing_rules": [
+    "NIBtera Online pill ALWAYS top-right (right:75 top:28). Never move it; keep photo subjects (hands, heads) out of that corner instead.",
+    "NIB International Bank logo gets its own white oval background (left:62 top:28) whenever it is not clearly legible on the photo (branding priority). Used on Tap v4.",
+    "Scanning/action scenes must clearly show the action (e.g. scanner phone camera aimed at the QR).",
+    "When both phones must show screens, use a high-angle photo (green chroma screen on the scanner phone, white on the QR phone) and composite real UI on both.",
+    "Phone owners are different people: give them visibly different hands (use Project files 'Pretty woman hand(s).png' as reference for the woman's hand). For scan scenes use the scanner's first-person POV, scanner phone in foreground aimed at the other phone.",
+    "NIBtera Online logo (white pill) on every post, top-right (Bamlak, Nov 20).",
+    "Headline font: Nokia Bold (source/NokiaBold.ttf, from Project Amharic font pack) at ~92-96px with 4px same-colour text-stroke for extra boldness, yellow #fdb913; sub-tagline ribbons are fully rounded pills (border-radius 999px), never squared (Bamlak, Nov 20).",
+    "Telegram sends: ALWAYS use a commit-pinned URL https://raw.githubusercontent.com/Bamlak27/nib-posts/<full commit sha>/posts/<file>.png (never /main/?v=N - GitHub CDN serves stale cached copies). After sending, check Telegram file_size equals the local file size; if not, resend.",
+    "Footer: content always the same (Follow us+socials+web, QR scan me, 24/7 9698, sign-off) but STYLE must be varied between graphics. Styles so far: (1) full-width brown band; (2) floating pill band with yellow Follow-us section and white text on brown (source/nib-building.html .fb). Product logo top-right changes per service (NIBtera Building for building posts). Logo may also be placed inline in the tagline.",
+    "White/plain-background photos: cut out the subject and use source/honey_bg.svg (approved-post honeycomb: large pale cream/yellow hexes + yellow circle behind subject).",
+    "Taglines mix brand yellow #fdb913 and brown (not one colour) and need not sit at the top - place them in free space, lower down when there is room.",
+    "Reviewer feedback may be a reply to an older file: use reply_to_message in getUpdates (its caption/file_name) to identify which post/version it targets before editing."
+  ],
+  "layouts": {
+    "nibtera-apps": {
+      "headline": "top-left, 2 words, brown+yellow, pill tagline beneath",
+      "subject": "woman cut-out right on honeycomb+circle",
+      "support": "CTA badges bottom-left",
+      "bg": "honeycomb cream + yellow circle",
+      "footer": "cream card"
     },
-    {
-     "v": 3,
-     "note": "Bamlak (Nov 20): copy headline font style/boldness/size from his QR reference post; ribbon must be fully rounded (oval on all corners), not squared."
+    "nibtera-bee-hunt": {
+      "headline": "top-left, Az Alkmar large + small 2nd line",
+      "subject": "none (honeycomb scene)",
+      "support": "-",
+      "bg": "honeycomb scene",
+      "footer": "cream card"
     },
-    {
-     "v": 4,
-     "note": "Reviewer (@InjeraDm, Nov 20): first tagline wording is \"የመዝናኛዬ ሁነኛዬ አጋር!\" and keep the quotation marks - intentional."
+    "nibtera-smart": {
+      "headline": "top-left, brown+yellow, pill tagline beneath",
+      "subject": "woman cut-out right on honeycomb+circle",
+      "support": "CTA badges bottom-left",
+      "bg": "honeycomb cream + yellow circle",
+      "footer": "brown band"
     },
-    {
-     "v": 5,
-     "note": "Reviewer replied to the Master Card v4 file (Nov 20): make ንብ ማስተር ካርድ the top tagline; second tagline (pill) becomes የጉዞ ሁነኛ አጋር!"
+    "nibtera-fayda": {
+      "headline": "giant 2-line brown top-left",
+      "subject": "head&shoulders bottom-right large",
+      "support": "tilted ID card + tilted phone overlapping",
+      "background": "yellow rings + faint hex",
+      "banner": "cream rounded",
+      "footer": "brown full band",
+      "logos": "NIB pill left, NIBtera Saving pill right"
     },
-    {
-     "v": 6,
-     "note": "Reviewer (Nov 20, sent right after v5): second tagline is \"የጉዞዎ ሁነኛ አጋር!\" (ዎ)."
+    "nibtera-fayda2": {
+      "headline": "top-centre single line, all brown",
+      "subject": "full-bleed ChatGPT scene (man seated, eye level), subject right-centre",
+      "support": "exact UI on phone left + exact ID card right, both held; yellow rounded banner bottom-left",
+      "bg": "full-bleed photo with light yellow wash",
+      "footer": "yellow rounded pill with brown outline",
+      "logos": "NIB white pill left, NIBtera Saving plain right"
+    },
+    "nibtera-fayda3": {
+      "headline": "top-centre single line, all brown",
+      "subject": "full-bleed ChatGPT scene (man seated, eye level), subject right-centre",
+      "support": "exact UI on phone left + exact ID card right, both held; yellow rounded banner bottom-left",
+      "bg": "full-bleed photo with light yellow wash",
+      "footer": "yellow rounded pill with brown outline",
+      "logos": "NIB white pill left, NIBtera Saving plain right"
+    },
+    "nibtera-remit": {
+      "headline": "bottom-left, 3 lines brown+white, brown pill tagline beneath",
+      "subject": "family cut-out right, large, bleeding off right/bottom",
+      "support": "USD coin + real 100 birr note with dashed arc, top-left",
+      "bg": "solid yellow + cream glow + white hex outline",
+      "footer": "brown full band",
+      "logos": "NIB white pill left, NIBtera Online white pill right"
+    },
+    "nibtera-qr": {
+      "headline": "top-right aligned, 2 words brown+yellow, brown pill tagline beneath",
+      "subject": "full-bleed low-angle POV: stand on the RIGHT, hand with phone from the LEFT, scanning the real NIB QR stand",
+      "support": "none (scan brackets on phone screen)",
+      "bg": "full photo (warm cafe bokeh) with cream wash at top",
+      "footer": "cream card with yellow outline",
+      "logos": "NIB white pill left, NIBtera QR white pill right"
+    },
+    "nibtera-telebirr": {
+      "headline": "bottom-right aligned, 2 lines brown+yellow, brown pill tagline beneath",
+      "subject": "full-bleed 3D scene: NIB ATM rising from honey smoke out of a phone at bottom-left (exact telebirr Cash out screen overlaid)",
+      "support": "brown pill tagline",
+      "bg": "full cream/honey glow render",
+      "footer": "full-width yellow band with brown top rule",
+      "logos": "NIB white pill left, telebirr white pill right"
     }
-   ]
-  },
-  "nib-mastercard-2": {
-   "version": 3,
-   "status": "awaiting_review",
-   "headline": "ንብ ማስተር ካርድ",
-   "ribbon": "የጉዞዎ ሁነኛ አጋር!",
-   "photo": "photo_card2.png",
-   "feedback_log": [
-    {
-     "v": 2,
-     "note": "Bamlak (Nov 20): shadow behind taglines too dark - lightened scrim (.72/.5 -> .42/.27)."
-    },
-    {
-     "v": 2,
-     "note": "First v2 send was a stale cached copy (v1); resent correct v2 via commit-pinned URL, size verified."
-    },
-    {
-     "v": 3,
-     "note": "Reviewer replied to traveller v2 file (Nov 20): top tagline ንብ ማስተር ካርድ; second tagline የጉዞዎ ሁነኛ አጋር!"
-    }
-   ]
-  },
-  "nibtera-building": {
-   "version": 4,
-   "status": "awaiting_review",
-   "headline": "የህንጻዎን አስተዳደር ካሉበት ሆነው በ[NIBtera Building logo]",
-   "photo": "photo_bld.png",
-   "footer_style": "pill band (yellow Follow-us section + brown band, white text), from approved Remit sample",
-   "feedback_log": [
-    {
-     "v": 2,
-     "note": "Bamlak (Nov 20): approved-post honeycomb bg for white-bg images; yellow+brown mixed tagline; tagline moved lower; added smaller CTA \"ንብተራ ኦንላይንን አሁኑኑ ይጠቀሙ!\" with App Store/Google Play badges."
-    },
-    {
-     "v": 3,
-     "note": "Reviewer (@InjeraDm, Nov 20): move download icons + text lower for more space below the tagline."
-    },
-    {
-     "v": 4,
-     "note": "Reviewer (@InjeraDm, Nov 20): tagline changed to \"የህንጻዎን አስተዳደር ካሉበት ሆነው በ[logo]\"."
-    }
-   ]
-  },
-  "nibtera-apps": {
-   "version": 3,
-   "status": "awaiting",
-   "file": "posts/nibtera-apps.png",
-   "source": "source/nibtera-apps.html"
-  },
-  "nibtera-apps-concepts": {
-   "status": "awaiting choice",
-   "files": [
-    "posts/nibtera-apps-c1.png",
-    "posts/nibtera-apps-c2.png",
-    "posts/nibtera-apps-c3.png"
-   ],
-   "note": "Umbrella / Hive / Woven Roof rough drafts for creative director to choose"
-  },
-  "nibtera-bee-hunt": {
-   "version": 2,
-   "status": "awaiting",
-   "file": "posts/nibtera-bee-hunt2.png",
-   "source": "source/nibtera-bee-hunt7.html",
-   "note": "Month 9 W4 Sunday Interactive: 7 hidden brown bees (cropped from Bee line.png), different sizes. Bee positions (x,y,size): (968,448,46) (877,1043,30) (190,545,26) (640,650,34) (1150,650,22) (560,1142,40) (10,690,60)"
-  },
-  "nibtera-smart": {
-   "version": 2,
-   "file": "posts/nibtera-smart2.png"
-  },
-  "nibtera-fayda": {
-   "version": 3,
-   "file": "posts/nibtera-fayda3.png"
-  },
-  "nibtera-remit": {
-   "status": "awaiting_review",
-   "version": 1,
-   "headline": "ከውጭ ወደ ሀገር ቤት፣ በቀላሉ!",
-   "source": "source/nibtera-remit.html",
-   "image": "posts/nibtera-remit.png",
-   "service_source": "Bamlak requested NIBtera Remit launch post (Nov 25); Pinterest inspo: LemFi 'Every Transfer Brings You Closer' family-with-phone pin",
-   "feedback_log": [
-    "v1: NIBtera Remit launch post; ChatGPT family scene (NIB male/female/kid models, phone back to camera, no invented Remit UI) cut out onto yellow; no Remit screen/logo in project files so NIBtera Online logo used top-right"
-   ]
-  },
-  "nibtera-qr": {
-   "status": "awaiting_review",
-   "version": 2,
-   "headline": "በአንድ ስካን፣ ክፍያ ተፈጸመ!",
-   "source": "source/nibtera-qr2.html",
-   "image": "posts/nibtera-qr2.png",
-   "service_source": "Miro Phase 4, Month 10, Week 1 (Nov 23-29): Thursday slot carries the NIBtera QR caption",
-   "feedback_log": [
-    "v1: NIBtera QR post. ONE Pinterest pin (Epic Pay 'Every scan has a story': hand scanning a QR stand, low angle) recreated in ChatGPT with the real NIB QR stand (ETHQR); scene top extended 140px for headline room; headline top-right; sent to @InjeraDm. Wording flagged to Bamlak for confirmation.",
-    "v2 (Bamlak, before review): reverse the direction of the stand and hand/phone because a previously approved QR post has the same direction. ChatGPT regenerated the scene: stand on the right, hand and phone from the left (stand text not mirrored); top extended 70px; layout otherwise unchanged. v1 file kept until approval."
-   ]
   }
- },
- "standing_rules": [
-  "NIBtera Online pill ALWAYS top-right (right:75 top:28). Never move it; keep photo subjects (hands, heads) out of that corner instead.",
-  "NIB International Bank logo gets its own white oval background (left:62 top:28) whenever it is not clearly legible on the photo (branding priority). Used on Tap v4.",
-  "Scanning/action scenes must clearly show the action (e.g. scanner phone camera aimed at the QR).",
-  "When both phones must show screens, use a high-angle photo (green chroma screen on the scanner phone, white on the QR phone) and composite real UI on both.",
-  "Phone owners are different people: give them visibly different hands (use Project files 'Pretty woman hand(s).png' as reference for the woman's hand). For scan scenes use the scanner's first-person POV, scanner phone in foreground aimed at the other phone.",
-  "NIBtera Online logo (white pill) on every post, top-right (Bamlak, Nov 20).",
-  "Headline font: Nokia Bold (source/NokiaBold.ttf, from Project Amharic font pack) at ~92-96px with 4px same-colour text-stroke for extra boldness, yellow #fdb913; sub-tagline ribbons are fully rounded pills (border-radius 999px), never squared (Bamlak, Nov 20).",
-  "Telegram sends: ALWAYS use a commit-pinned URL https://raw.githubusercontent.com/Bamlak27/nib-posts/<full commit sha>/posts/<file>.png (never /main/?v=N - GitHub CDN serves stale cached copies). After sending, check Telegram file_size equals the local file size; if not, resend.",
-  "Footer: content always the same (Follow us+socials+web, QR scan me, 24/7 9698, sign-off) but STYLE must be varied between graphics. Styles so far: (1) full-width brown band; (2) floating pill band with yellow Follow-us section and white text on brown (source/nib-building.html .fb). Product logo top-right changes per service (NIBtera Building for building posts). Logo may also be placed inline in the tagline.",
-  "White/plain-background photos: cut out the subject and use source/honey_bg.svg (approved-post honeycomb: large pale cream/yellow hexes + yellow circle behind subject).",
-  "Taglines mix brand yellow #fdb913 and brown (not one colour) and need not sit at the top - place them in free space, lower down when there is room.",
-  "Reviewer feedback may be a reply to an older file: use reply_to_message in getUpdates (its caption/file_name) to identify which post/version it targets before editing."
- ],
- "layouts": {
-  "nibtera-apps": {
-   "headline": "top-left, 2 words, brown+yellow, pill tagline beneath",
-   "subject": "woman cut-out right on honeycomb+circle",
-   "support": "CTA badges bottom-left",
-   "bg": "honeycomb cream + yellow circle",
-   "footer": "cream card"
-  },
-  "nibtera-bee-hunt": {
-   "headline": "top-left, Az Alkmar large + small 2nd line",
-   "subject": "none (honeycomb scene)",
-   "support": "-",
-   "bg": "honeycomb scene",
-   "footer": "cream card"
-  },
-  "nibtera-smart": {
-   "headline": "top-left, brown+yellow, pill tagline beneath",
-   "subject": "woman cut-out right on honeycomb+circle",
-   "support": "CTA badges bottom-left",
-   "bg": "honeycomb cream + yellow circle",
-   "footer": "brown band"
-  },
-  "nibtera-fayda": {
-   "headline": "giant 2-line brown top-left",
-   "subject": "head&shoulders bottom-right large",
-   "support": "tilted ID card + tilted phone overlapping",
-   "background": "yellow rings + faint hex",
-   "banner": "cream rounded",
-   "footer": "brown full band",
-   "logos": "NIB pill left, NIBtera Saving pill right"
-  },
-  "nibtera-fayda2": {
-   "headline": "top-centre single line, all brown",
-   "subject": "full-bleed ChatGPT scene (man seated, eye level), subject right-centre",
-   "support": "exact UI on phone left + exact ID card right, both held; yellow rounded banner bottom-left",
-   "bg": "full-bleed photo with light yellow wash",
-   "footer": "yellow rounded pill with brown outline",
-   "logos": "NIB white pill left, NIBtera Saving plain right"
-  },
-  "nibtera-fayda3": {
-   "headline": "top-centre single line, all brown",
-   "subject": "full-bleed ChatGPT scene (man seated, eye level), subject right-centre",
-   "support": "exact UI on phone left + exact ID card right, both held; yellow rounded banner bottom-left",
-   "bg": "full-bleed photo with light yellow wash",
-   "footer": "yellow rounded pill with brown outline",
-   "logos": "NIB white pill left, NIBtera Saving plain right"
-  },
-  "nibtera-remit": {
-   "headline": "bottom-left, 3 lines brown+white, brown pill tagline beneath",
-   "subject": "family cut-out right, large, bleeding off right/bottom",
-   "support": "USD coin + real 100 birr note with dashed arc, top-left",
-   "bg": "solid yellow + cream glow + white hex outline",
-   "footer": "brown full band",
-   "logos": "NIB white pill left, NIBtera Online white pill right"
-  },
-  "nibtera-qr": {
-   "headline": "top-right aligned, 2 words brown+yellow, brown pill tagline beneath",
-   "subject": "full-bleed low-angle POV: stand on the RIGHT, hand with phone from the LEFT, scanning the real NIB QR stand",
-   "support": "none (scan brackets on phone screen)",
-   "bg": "full photo (warm cafe bokeh) with cream wash at top",
-   "footer": "cream card with yellow outline",
-   "logos": "NIB white pill left, NIBtera QR white pill right"
-  }
- }
 }
