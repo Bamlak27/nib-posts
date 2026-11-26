@@ -233,8 +233,8 @@
    ]
   },
   "nibtera-phone": {
-   "version": 1,
-   "file": "posts/nibtera-phone.png",
+   "version": 2,
+   "file": "posts/nibtera-phone2.png",
    "status": "awaiting_review",
    "service": "NIB By Phone Number"
   },
@@ -267,7 +267,8 @@
   "Never change the NIB colour theme: yellow #fdb913, brown #8a4d1f, cream; no orange backgrounds (Bamlak, Nov 26)",
   "Whenever a phone appears, add App Store + Google Play badges with the line ንብ ተራ ኦንላይንን አውርደው ይጠቀሙ! (Bamlak, Nov 26)",
   "Use the updated NIB ATM (yellow body, brown top/side panel with white zigzag, black base, bee icon) from the director's reference image in all ATM scenes (Bamlak, Nov 26)",
-  "Sign-off must look like the supplied yellow/honey bee-line artwork (use c_sig on brown); download tagline is ንብተራ ኦንላይንን አውርደው ይጠቀሙ! written plain, no card needed; the NIB ATM must be slim/tall like the reference (Bamlak, Nov 26)"
+  "Sign-off must look like the supplied yellow/honey bee-line artwork (use c_sig on brown); download tagline is ንብተራ ኦንላይንን አውርደው ይጠቀሙ! written plain, no card needed; the NIB ATM must be slim/tall like the reference (Bamlak, Nov 26)",
+  "ALWAYS generate the image scene with ChatGPT (never hand-cut models); correct it with detailed prompts + face close-up references until faces match; follow the inspo placement/pose exactly; people waist-up with realistic scale to the building; empty background = honeycomb (Bamlak, Nov 26)"
  ],
  "layouts": {
   "nibtera-apps": {
@@ -349,11 +350,11 @@
    "logos": "NIB white pill left, NIBtera Online white pill right"
   },
   "nibtera-phone": {
-   "headline": "top-centre 2 lines, brown + white (brown shadow)",
-   "subject": "real model cut-outs (man left, woman right) behind balcony railings, floating exact app screen centre with real 1 birr coins on a dotted arc",
-   "support": "plain download tagline + store badges in the wall gap between balconies",
-   "bg": "honey wall facade with subtle honeycomb (ChatGPT empty-balcony scene)",
-   "footer": "full-width cream band with yellow top rule, brown pieces",
+   "headline": "top-centre 2 lines, brown + cream (brown shadow)",
+   "subject": "ChatGPT scene like the Pinterest inspo: woman left / man right on facing balconies, waist-up, coins arc between phones",
+   "support": "plain download tagline + store badges in wall gap; exact app screens overlaid on both phones",
+   "bg": "honey wall facade with honeycomb (generated)",
+   "footer": "full-width brown band, honey pieces",
    "logos": "NIB white pill left, NIBtera Online white pill right"
   },
   "nib-world-elite-debit": {
